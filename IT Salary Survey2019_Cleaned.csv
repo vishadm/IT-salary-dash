@@ -1,0 +1,992 @@
+Age,Gender,City,Seniority level,Position,Years of experience,Your main technology / programming language,Yearly Salary,Yearly bonus,Yearly stocks,Salary one year ago,Yearly bonus one year ago. Only answer if staying in same country,Yearly stocks one year ago. Only answer if staying in same country,Number of vacation days,Number of home office days per month,Main language at work,Company name,Company size,Company type,Сontract duration,Company business sector
+33.0,Male,Berlin,Senior,Fullstack Developer,13,PHP,64000.0,1000.0,,58000.0,1000.0,,29.0,4.0,English,,50-100,Startup,unlimited,Tourism
+29.0,Male,Berlin,Middle,Backend Developer,3,Python,55000.0,,,55000.0,,,22.0,4.0,English,,10-50,Product,unlimited,Scientific Activities
+Not mentioned,Male,Berlin,Middle,Mobile Developer,4,Kotlin,70000.0,,,55000.0,,,27.0,,English,,1000+,Startup,unlimited,
+30.0,Male,Berlin,Senior,Backend Developer,6,PHP,63000.0,,,,,,24.0,,English,Auto1,100-1000,Product,unlimited,Transport
+32.0,Male,Berlin,Senior,Embedded Developer,10,C/C++,66000.0,,,56000.0,,,30.0,0.0,English,Luxoft,50-100,Product,unlimited,Automotive
+33.0,Male,Berlin,Middle,Machine Learning Engineer,11,Python,80000.0,,,75000.0,,,27.0,5.0,English,Zalando,1000+,Product,unlimited,Сommerce
+34.0,Male,Berlin,Senior,Backend Developer,12,Java,85000.0,,,76000.0,,,25.0,,English,,50-100,Startup,unlimited,
+38.0,Male,Berlin,Head,Manager,15,Not Relevant,81000.0,4000.0,,75000.0,,,30.0,10.0,Deutsch,,100-1000,Product,unlimited,Automotive
+Not mentioned,Male,Berlin,Lead,Mobile Developer,8,Swift,66000.0,,,63000.0,,,28.0,15.0,English,,100-1000,Product,unlimited,Coaching 
+29.0,Male,Berlin,Senior,Mobile Developer,7,Kotlin,65000.0,,,54000.0,,,26.0,4.0,English,Bonial International GmbH,100-1000,Product,unlimited,Сommerce
+27.0,Male,Berlin,Middle,Fullstack Developer,7,Javascript / Typescript,63000.0,,,60000.0,,,28.0,1.0,English,,10-50,Startup,unlimited,Finance / Insurance
+31.0,Male,Berlin,Senior,Backend Developer,8,Go,65000.0,,,,,,26.0,,English,Football app,100-1000,Product,6 months,Gaming
+23.0,Male,Berlin,Senior,DevOps,6,AWS,83000.0,,,63000.0,,,30.0,1.0,English,Digital service for one-man-business craftsmen,10-50,Startup,unlimited,Manufacture
+27.0,Male,Berlin,Senior,"Designer (UI, UX)",9,Not Relevant,66000.0,5500.0,,52000.0,10400.0,,30.0,0.0,English,Koerber Digital,100-1000,Product,unlimited,Manufacture
+33.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,70000.0,,,68000.0,,,40.0,10.0,English,,10-50,Startup,unlimited,Customer Support
+Not mentioned,Male,Berlin,Senior,Backend Developer,7,Java,80000.0,,,62000.0,5000.0,,26.0,4.0,English,,100-1000,Startup,unlimited,Transport
+31.0,Male,Berlin,Middle,Mobile Developer,6,Swift,72000.0,,,70000.0,,,27.0,0.0,English,Omio,100-1000,Product,unlimited,Сommerce
+34.0,Male,Berlin,Senior,Backend Developer,10,Java,87000.0,,,,,,28.0,,English,,50-100,Product,unlimited,Advertising
+33.0,Male,Berlin,Senior,DevOps,12,Kubernetes,90000.0,,,84000.0,,,30.0,,English,,1000+,Product,unlimited,Сommerce
+31.0,Male,Berlin,Senior,Data Scientist,6,Python,78000.0,,,76000.0,,,Not mentioned,,English,,1000+,Product,unlimited,Сommerce
+24.0,Male,Berlin,Middle,Machine Learning Engineer,2,C/C++,70000.0,,,70000.0,,,30.0,,English,,10-50,Startup,unlimited,Health
+28.0,Male,Hamburg,Senior,Backend Developer,7,PHP,55000.0,,,,,,25.0,0.0,English,,100-1000,Product,unlimited,Сommerce
+32.0,Male,Frankfurt,Senior,DevOps,12,Not Relevant,160000.0,,,,,,Not mentioned,,Deutsch,,1000+,,,
+27.0,Male,Berlin,Senior,Data Engineer,5,Python,75000.0,,,,,,30.0,0.0,English,New Yorker,1000+,Product,unlimited,Fashion
+32.0,Male,Berlin,Senior,DevOps,13,Not Relevant,60000.0,6000.0,,60000.0,6000.0,,24.0,,English,,50-100,Product,unlimited,IoT
+32.0,Male,Berlin,Senior,DevOps,7,AWS,72000.0,,,72000.0,,,24.0,3.0,English,Lieferando,1000+,Product,unlimited,Catering
+38.0,Male,Berlin,Senior,Backend Developer,16,Ruby,80000.0,,,75000.0,,,24.0,20.0,English,Germany,up to 10,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,,Data Scientist,7,Python,85000.0,7000.0,,85000.0,7000.0,,30.0,,English,,10-50,Consulting / Agency,unlimited,Сommerce
+31.0,Male,Berlin,Senior,QA,9,Java,67000.0,4000.0,,,,,20.0,4.0,English,,100-1000,Product,unlimited,Automotive
+31.0,Male,Berlin,Senior,Backend Developer,8,PHP,60000.0,,,60000.0,,,24.0,0.0,English,Auto1,100-1000,Product,unlimited,Сommerce
+32.0,Male,Berlin,Senior,Software Architect,13,Java,78600.0,,,78600.0,,,30.0,,English,,100-1000,Product,unlimited,Marketing
+44.0,Male,Berlin,Senior,Backend Developer,20,.NET,60000.0,5000.0,,60000.0,,,30.0,5.0,Deutsch,,50-100,Consulting / Agency,unlimited,
+26.0,Male,Berlin,,Backend Developer,6,PHP,65000.0,,,,,,Not mentioned,,English,,,Startup,,Finance / Insurance
+31.0,Male,Berlin,Senior,Backend Developer,7,PHP,60000.0,,,50000.0,,,26.0,20.0,English,,10-50,Product,unlimited,Сommerce
+36.0,Male,Berlin,Senior,Backend Developer,11,PHP,65000.0,6500.0,10000.0,60000.0,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+33.0,Male,Berlin,Middle,Backend Developer,4,Java,58000.0,,,48000.0,,,29.0,4.0,Deutsch,,1000+,Product,unlimited,
+37.0,Male,Berlin,Senior,Data Engineer,16,Scala,65000.0,,,,,,28.0,4.0,English,,1000+,Product,unlimited,Transport
+29.0,Male,Berlin,Senior,Backend Developer,11,Javascript / Typescript,190000.0,,,97000.0,,,9.0,20.0,English,,up to 10,Startup,unlimited,
+33.0,Male,Berlin,Senior,Backend Developer,9,Java,69000.0,,,69000.0,,,30.0,2.0,English,Signavio,100-1000,Product,unlimited,
+35.0,Male,Frankfurt,Middle,Business Analyst,15,Not Relevant,72000.0,16000.0,3500.0,70000.0,10000.0,,28.0,4.0,English,,1000+,Product,unlimited,Finance / Insurance
+35.0,Male,Cologne,Senior,Backend Developer,4,Java,67000.0,,,,,,30.0,4.0,English,,50-100,Startup,unlimited,
+31.0,Male,Berlin,Senior,Backend Developer,10,Clojure,75000.0,,,70000.0,,,25.0,,English,,10-50,Product,unlimited,
+35.0,Male,Berlin,Middle,Data Engineer,10,Java,70000.0,,10000.0,65000.0,,10000.0,30.0,20.0,English,,100-1000,Product,unlimited,Finance / Insurance
+27.0,Male,Berlin,Senior,Backend Developer,10,PHP,60000.0,2000.0,,45000.0,,,25.0,5.0,English,,50-100,Startup,unlimited,Сommerce
+38.0,Female,Berlin,Senior,Manager,10,Javascript / Typescript,85000.0,,,85000.0,,,26.0,10.0,English,OptioPay,10-50,Startup,unlimited,Finance / Insurance
+31.0,Male,Berlin,Middle,Backend Developer,2,Java,62000.0,,,,,,30.0,0.0,English,Яфдфтвщ,1000+,Product,unlimited,Сommerce
+29.0,Male,Düsseldorf,Senior,Backend Developer,9,Java,75000.0,,,,,,25.0,4.0,English,trivago,1000+,Product,unlimited,Tourism
+30.0,Male,Wolfsburg,Senior,Backend Developer,4,Java,75000.0,,,,,,26.0,0.0,English,,50-100,Consulting / Agency,unlimited,Automotive
+30.0,Male,Berlin,Middle,Backend Developer,3,Ruby,61000.0,,,48000.0,,,26.0,4.0,English,,100-1000,Startup,unlimited,Tourism
+31.0,Male,Berlin,Senior,Fullstack Developer,12,Javascript / Typescript,80000.0,,,75000.0,,,30.0,4.0,English,,1000+,Product,unlimited,Finance / Insurance
+33.0,Male,Cologne,Senior,Backend Developer,10,.NET,60000.0,2000.0,,,,,30.0,5.0,Deutsch,,10-50,Startup,unlimited,
+31.0,Male,Munich,Senior,Frontend Developer,7,Javascript / Typescript,56600.0,4650.0,,56000.0,4600.0,,30.0,4.0,Deutsch,,1000+,Consulting / Agency,unlimited,Finance / Insurance
+30.0,Male,Munich,Lead,Data Scientist,8,Python,81000.0,9000.0,,78000.0,7800.0,,25.0,,English,,10-50,Startup,unlimited,Сommerce
+28.0,Male,Berlin,Senior,Data Scientist,4,Python,75000.0,,,66000.0,500.0,,28.0,1.0,English,Contorion,100-1000,Startup,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Data Scientist,6,Python,80000.0,8000.0,25000.0,,,,24.0,,English,,1000+,Product,more than 1 year,Сommerce
+27.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,72000.0,,,66000.0,,,30.0,,English,Luxoft,100-1000,Consulting / Agency,unlimited,Transport
+31.0,Female,MA,Senior,"Designer (UI, UX)",10,,61000.0,,,56000.0,,,30.0,6.0,Deutsch,,10-50,Product,unlimited,Health
+28.0,Male,Berlin,Middle,Machine Learning Engineer,6,Python,61000.0,,,55000.0,,,28.0,,English,,100-1000,Startup,unlimited,Manufacture
+36.0,Female,Munich,Senior,Backend Developer,13,Python,76000.0,8000.0,,76000.0,8000.0,,30.0,,English,,50-100,Startup,unlimited,
+28.0,Male,Munich,Senior,Mobile Developer,8,Swift,75000.0,,1.0,,,,30.0,0.0,English,,10-50,Startup,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Localization,15,Not Relevant,60000.0,,,55000.0,,,25.0,,English,,1000+,Product,unlimited,Gaming
+40.0,Male,Berlin,Senior,Manager,15,Not Relevant,70000.0,,,65000.0,,,30.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+34.0,Male,Berlin,Senior,Support,9,PHP,60000.0,,,53500.0,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Backend Developer,12,Java,150000.0,16000.0,52500.0,,,,30.0,,English,,1000+,Product,unlimited,
+27.0,Female,Berlin,Middle,Data Scientist,3,Python,66000.0,,,52000.0,,,27.0,2.0,English,,100-1000,Startup,unlimited,Gaming
+30.0,Male,Munich,Senior,Mobile Developer,8,Swift,60000.0,1500.0,,,,,27.0,0.0,English,,1000+,Product,unlimited,Сommerce
+32.0,Male,Berlin,Senior,Backend Developer,11,PHP,65000.0,,,60000.0,,,26.0,2.0,English,,50-100,Product,unlimited,Сommerce
+23.0,Male,Berlin,Middle,Data Scientist,3,Python,50000.0,,,,,,28.0,,English,,50-100,Startup,unlimited,Finance / Insurance
+35.0,Male,Munich,Senior,Embedded Developer,12,C/C++,78000.0,13000.0,1.0,60000.0,1.0,1.0,30.0,1.0,English,,100-1000,Consulting / Agency,unlimited,Transport
+30.0,Male,Munich,Middle,DevOps,10,AWS,80000.0,200.0,2000.0,75000.0,200.0,2000.0,27.0,1.0,English,,50-100,Product,unlimited,IT
+40.0,Male,Munich,Senior,Mobile Developer,12,Swift,113000.0,4700.0,,,,,30.0,0.0,English,Consumer Electronics,10-50,Product,unlimited,Manufacture
+27.0,Male,Munich,Senior,Backend Developer,5,Java,70000.0,2000.0,2000.0,57000.0,2000.0,,30.0,,English,,100-1000,Consulting / Agency,more than 1 year,Сommerce
+36.0,Male,Berlin,Senior,Backend Developer,14,Java,73000.0,,,68000.0,,,30.0,8.0,English,,100-1000,Product,unlimited,Advertising
+36.0,Male,Berlin,Lead,Manager,15,PHP,80000.0,8000.0,50000.0,,,,30.0,5.0,English,,1000+,Product,unlimited,Сommerce
+31.0,Male,Berlin,Senior,Fullstack Developer,9,Python,64000.0,,,,,,30.0,,English,,10-50,Startup,unlimited,Сommerce
+26.0,Male,Munich,Middle,QA,3,Ruby,58000.0,,,,,,30.0,0.0,English,Payworks GmbH,50-100,Product,unlimited,Finance / Insurance
+26.0,Male,Munich,Junior,Fullstack Developer,2,Java,60000.0,,,,500.0,,28.0,,English,,100-1000,Product,unlimited,Scientific Activities
+32.0,Female,Berlin,Senior,Backend Developer,12,.NET,96000.0,,,85000.0,,,30.0,,English,,1000+,Product,1 year,Finance / Insurance
+38.0,Male,Berlin,Senior,Backend Developer,18,Not Relevant,75000.0,,,80000.0,,,30.0,,English,,100-1000,Product,unlimited,
+29.0,Male,Munich,Senior,Backend Developer,10,Ruby,55000.0,,,52000.0,,,26.0,,English,Riskmethods ,100-1000,Product,unlimited,
+30.0,Male,Berlin,Lead,Data Scientist,6,Python,115000.0,23.0,50.0,107500.0,16.0,38.0,28.0,5.0,English,,1000+,Startup,unlimited,
+26.0,Male,Munich,Middle,QA,6,Python,65000.0,6000.0,4000.0,55000.0,5000.0,3000.0,30.0,,English,,1000+,Product,unlimited,IT
+30.0,Male,Munich,Middle,DevOps,10,AWS,80000.0,,,72000.0,,,30.0,,English,,1000+,Product,unlimited,Transport
+32.0,Male,Berlin,Middle,Mobile Developer,7,Swift,66000.0,,,,,,25.0,,English,,1000+,,unlimited,
+35.0,Male,Munich,Senior,DevOps,16,Yaml,72000.0,10000.0,1.0,70000.0,10000.0,1.0,31.0,0.0,Deutsch,,1000+,Consulting / Agency,unlimited,Сommerce
+35.0,Male,Berlin,Senior,Frontend Developer,11,Javascript / Typescript,72000.0,,,,,,26.0,,English,WeQ,50-100,Product,unlimited,Сommerce
+38.0,Male,Berlin,Middle,DevOps,7,AWS,67000.0,,,66000.0,,,28.0,3.0,English,AUTO1 Group GmbH,1000+,Startup,unlimited,Automotive
+36.0,Male,Munich,Senior,Backend Developer,14,PHP,70000.0,,,65000.0,,,30.0,,Deutsch,FondsFinanz Gmbh,100-1000,Product,unlimited,Finance / Insurance
+Not mentioned,Female,Munich,Middle,QA,5,Java,62000.0,,,52000.0,,,26.0,3.0,English,,1000+,Product,unlimited,Finance / Insurance
+30.0,Male,Berlin,Senior,QA,9,Java,67500.0,,,67500.0,,,30.0,2.0,English,Fastlane,100-1000,Product,unlimited,Marketing
+33.0,Male,Berlin,Senior,QA,8,Java,75000.0,,,65000.0,,,28.0,4.0,English,,100-1000,Startup,unlimited,Finance / Insurance
+31.0,Male,Frankfurt,Middle,System Administrator,10,"Linux-Stack, Networking",56300.0,10500.0,,55000.0,5500.0,,30.0,10.0,English+Deutsch,Government agency,10-50,Consulting / Agency,unlimited,Finance / Insurance
+37.0,Male,Berlin,Lead,Backend Developer,12,Java,89570.0,,20240.0,82160.0,,18240.0,30.0,4.0,English,Zalando,1000+,Product,unlimited,Fashion
+Not mentioned,Female,Berlin,Middle,Product Manager,3,,60000.0,,,,,,26.0,,English,,50-100,Startup,,
+27.0,Male,Berlin,Middle,Manager,2,,52000.0,,,36000.0,,,27.0,2.0,English,,100-1000,Product,unlimited,Education
+36.0,Male,Berlin,Middle,Support,19,Azure,36000.0,,,,,,24.0,0.0,English,,100-1000,Startup,1 year,SEO
+39.0,Female,Hamburg,Middle,Backend Developer,2,Ruby,55000.0,,,43000.0,,,28.0,,Deutsch,Sum.cumo,100-1000,Product,unlimited,Finance / Insurance
+36.0,Male,Berlin,Senior,Manager,14,Python,95000.0,,,92000.0,,,30.0,20.0,English,,10-50,,unlimited,Сommerce
+33.0,Male,Berlin,Senior,Backend Developer,10,.NET,60000.0,,,55000.0,,,25.0,7.0,English,,10-50,Product,unlimited,Сommerce
+30.0,Male,Berlin,Middle,Frontend Developer,7,Javascript / Typescript,56500.0,,,55000.0,,,28.0,,English,,100-1000,Product,unlimited,
+32.0,Male,Berlin,Senior,Backend Developer,12,PHP,68000.0,,,60000.0,,,28.0,20.0,English,,50-100,Product,unlimited,Сommerce
+Not mentioned,Male,Berlin,Middle,Backend Developer,3,Elixir,74000.0,,,,73000.0,,30.0,4.0,English,,10-50,Consulting / Agency,unlimited,Сonstruction
+43.0,Male,Berlin,Senior,QA,8,Not Relevant,80000.0,,,,,,Not mentioned,,English,,10-50,Startup,unlimited,Education
+29.0,Male,Berlin,Senior,Backend Developer,7,PHP,69000.0,,,63000.0,,,30.0,,English,Auto1,1000+,Product,unlimited,Transport
+Not mentioned,Male,Hamburg,Senior,SAP Consultant,20,Not Relevant,80000.0,,,,,,30.0,8.0,Deutsch,,1000+,Consulting / Agency,more than 1 year,
+29.0,Male,Berlin,,QA,9,Python,66000.0,,,55000.0,,,24.0,4.0,English,,50-100,Startup,unlimited,
+Not mentioned,Male,Munich,Middle,Backend Developer,6,Java,61000.0,,,,,,26.0,3.0,English,Check24,100-1000,Product,unlimited,Finance / Insurance
+40.0,Male,Berlin,Senior,SRE,20,Multiple,70000.0,,,,,,20.0,4.0,English,LiveIntent,100-1000,Product,unlimited,Advertising
+33.0,Male,Leipzig,Senior,Mobile Developer,13,Kotlin,56000.0,2000.0,,52000.0,,,23.0,,English,,100-1000,Consulting / Agency,unlimited,IT
+Not mentioned,Male,Berlin,Senior,Mobile Developer,7,Kotlin,68000.0,,,60000.0,,,30.0,2.0,English,,1000+,Product,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Manager,14,Objective-C,80000.0,3800.0,,78000.0,2000.0,,28.0,20.0,Russian,,100-1000,Product,unlimited,Сommerce
+36.0,Male,Berlin,Senior,Software Engineer,11,Python,67000.0,,,64000.0,,,28.0,10.0,Deutsch,,100-1000,Consulting / Agency,unlimited,IT
+39.0,Male,Berlin,Senior,Backend Developer,16,Java,82000.0,,,63600.0,,,26.0,4.0,English,,100-1000,Startup,unlimited,Transport
+27.0,Female,Berlin,Middle,Data Scientist,2,Python,58500.0,3000.0,,55000.0,3000.0,,24.0,0.0,English,,50-100,Startup,unlimited,Сommerce
+46.0,Male,Berlin,Middle,System Administrator,7,"Microsoft, Vmware",45000.0,,,,43500.0,,25.0,0.0,Deutsch,Architektur Buro,50-100,Consulting / Agency,unlimited,Design
+46.0,Male,Berlin,Junior,DevOps,0,Kubernetes,55000.0,,,,,,25.0,,Deutsch,,50-100,Product,unlimited,Finance / Insurance
+31.0,Male,Berlin,Head,"CTO (CEO, CFO)",12,Java,210000.0,,1000.0,,,,32.0,5.0,English,,1000+,Product,unlimited,Сommerce
+47.0,Male,Berlin,Senior,Embedded Developer,20,C/C++,65000.0,,,65000.0,,,30.0,4.0,English,,1000+,Bodyshop / Outsource,unlimited,Manufacture
+40.0,Male,Berlin,Senior,Software Architect,18,Not Relevant,94000.0,,7500.0,86900.0,,,30.0,,English,,1000+,Product,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,66000.0,2500.0,,65000.0,1500.0,,29.0,2.0,English,,100-1000,Product,unlimited,Сommerce
+36.0,Male,Berlin,Middle,DevOps,10,AWS,65000.0,,,,,,28.0,5.0,English,,50-100,Product,unlimited,Сommerce
+44.0,Male,Berlin,Senior,Data Engineer,25,Python,70000.0,12000.0,,70000.0,12000.0,,30.0,6.0,English,,100-1000,Product,unlimited,Transport
+37.0,Female,Berlin,Middle,Backend Developer,10,C/C++,57000.0,,,,,,26.0,0.0,English,,100-1000,Product,unlimited,Сommerce
+30.0,Female,Berlin,Middle,Backend Developer,4,Python,54000.0,,,47250.0,,,30.0,4.0,English,,50-100,Product,unlimited,
+33.0,Male,Berlin,Senior,QA,8,Javascript / Typescript,63000.0,,,57000.0,,,30.0,5.0,English,,1000+,Product,unlimited,Manufacture
+35.0,Male,Munich,Principal,Software Architect,15,Google Cloud,120000.0,80000.0,,90000.0,10000.0,,30.0,7.0,Deutsch,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+25.0,Male,Berlin,Middle,Business Analyst,4,Python,60000.0,,,,60000.0,,25.0,4.0,English,Test,100-1000,Product,unlimited,Finance / Insurance
+25.0,Male,Munich,Senior,Frontend Developer,4,Javascript / Typescript,74000.0,11000.0,,57000.0,,,30.0,10.0,English,,1000+,Product,more than 1 year,
+32.0,Male,Berlin,Senior,Backend Developer,11,Python,70000.0,,,60000.0,,,27.0,,English,,1000+,Product,unlimited,
+32.0,Male,Munich,Senior,DevOps,14,Google Cloud,92000.0,10000.0,6000.0,78000.0,6000.0,0.0,30.0,20.0,English,,1000+,Product,unlimited,Finance / Insurance
+42.0,Male,Munich,Senior,Software Architect,20,Not Relevant,106000.0,9000.0,,102000.0,8500.0,,30.0,4.0,Deutsch,,100-1000,Product,unlimited,Transport
+42.0,Female,Munich,Senior,Business Analyst,15,Not Relevant,71000.0,5000.0,,69000.0,1500.0,,31.0,20.0,Deutsch,,1000+,Bodyshop / Outsource,unlimited,Software Development
+34.0,Female,Berlin,Senior,"Designer (UI, UX)",8,Not Relevant,52000.0,5200.0,30.0,,,,25.0,,English,,,Startup,unlimited,Сommerce
+30.0,Male,Berlin,Middle,Backend Developer,10,Kotlin,70000.0,3000.0,,59000.0,,,28.0,8.0,English,,100-1000,Product,unlimited,Сommerce
+45.0,Female,Munich,Junior,Frontend Developer,2,Java,36000.0,0.0,1.0,32000.0,1.0,1.0,27.0,0.0,Deutsch,,10-50,Consulting / Agency,unlimited,Justice
+35.0,Male,Frankfurt,Middle,QA,9,Not Relevant,60500.0,,,,,,30.0,,English,Da Vinchi Engineering,100-1000,Bodyshop / Outsource,unlimited,Manufacture
+42.0,Male,Munich,Middle,Fullstack Developer,16,Java,64000.0,,,,,,31.0,4.0,Deutsch,,50-100,Consulting / Agency,unlimited,Logistics
+40.0,Male,Berlin,Senior,Backend Developer,18,Python,88000.0,8000.0,5000.0,85000.0,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+34.0,Male,Munich,Senior,QA,12,,64000.0,5000.0,,62000.0,5000.0,,30.0,4.0,Deutsch,,1000+,Product,unlimited,Entertainment
+30.0,Female,Munich,Senior,QA,6,Java,56000.0,,,53000.0,,,28.0,5.0,Deutsch,,50-100,Consulting / Agency,unlimited,Automotive
+Not mentioned,Male,Berlin,Middle,Backend Developer,13,Javascript / Typescript,73500.0,,,73500.0,,,30.0,4.0,English,Technology/Infrastructure,1000+,Product,unlimited,IT
+32.0,Female,Berlin,Middle,Frontend Developer,12,Javascript / Typescript,59500.0,4000.0,,56000.0,,,30.0,10.0,English,,1000+,Product,unlimited,Software Development
+31.0,Male,Berlin,Senior,Fullstack Developer,10,Java,65000.0,,,60000.0,,,24.0,4.0,English,,up to 10,Startup,unlimited,
+30.0,Male,Berlin,Senior,Data Engineer,8,Python,81000.0,,,72000.0,,,25.0,4.0,English,,100-1000,Product,unlimited,Logistics
+45.0,Male,Munich,Senior,QA,12,Java,70000.0,9000.0,,66000.0,10500.0,,30.0,7.0,Deutsch,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Munich,Senior,Backend Developer,7,PHP,65000.0,,,57200.0,,,28.0,,English,,50-100,Product,unlimited,Finance / Insurance
+38.0,Male,Berlin,Senior,Backend Developer,6,Java,66000.0,,,,,,25.0,1.0,English,Takeaway.com,1000+,Product,more than 1 year,Сommerce
+29.0,Male,Munich,Senior,QA,6,Javascript / Typescript,60000.0,0.0,,,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Berlin,Senior,Embedded Developer,9,C/C++,74000.0,11000.0,400.0,61200.0,6000.0,0.0,30.0,5.0,English,,100-1000,Product,unlimited,Automotive
+34.0,Male,Munich,Senior,Backend Developer,10,PHP,120000.0,0.0,0.01,90000.0,,0.01,20.0,20.0,English,,up to 10,Consulting / Agency,1 year,
+33.0,Male,Berlin,Senior,Software Architect,12,Go,120000.0,12000.0,25000.0,95000.0,10000.0,15000.0,30.0,20.0,English,,100-1000,Product,unlimited,Transport
+36.0,Male,Berlin,Senior,Fullstack Developer,15,Javascript / Typescript,70000.0,,,58000.0,,,25.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+31.0,Female,Munich,Junior,Fullstack Developer,4,Java,57000.0,3060.0,,47000.0,5000.0,,28.0,1.0,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+38.0,Male,Berlin,Senior,Manager,9,Not Relevant,120000.0,,50000.0,90000.0,10000.0,,25.0,7.0,English,,1000+,Product,unlimited,Сommerce
+24.0,Female,Munich,Junior,Backend Developer,1,C/C++,72000.0,11000.0,16000.0,,,,30.0,20.0,English,Google,1000+,Product,unlimited,Software Development
+40.0,Male,Frankfurt,Senior,SAP Consultant,14,Not Relevant,175000.0,,,160000.0,,,15.0,4.0,English,,1000+,Product,6 months,Health
+37.0,Male,Munich,Senior,Fullstack Developer,11,PHP,67000.0,1500.0,,66000.0,,,5.0,8.0,Deutsch,,100-1000,Product,more than 1 year,Telecom
+25.0,Male,Frankfurt,Senior,Backend Developer,6,Java,65000.0,0.0,1.0,,,,30.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+33.0,Male,Berlin,Senior,Mobile Developer,10,Kotlin,80000.0,0.0,,72000.0,,,28.0,5.0,English,,1000+,Product,unlimited,Media
+32.0,Female,Nuremberg,Senior,QA,8,Java,50000.0,,,44000.0,,,26.0,8.0,English,,100-1000,Product,unlimited,Сommerce
+43.0,Male,Frankfurt,Senior,Backend Developer,10,SAP / ABAP,85000.0,,,,,,30.0,1.0,Deutsch,,1000+,Product,unlimited,Manufacture
+34.0,Male,Cologne,Middle,QA,10,Java,61800.0,,,60000.0,5000.0,,25.0,5.0,Deutsch,,up to 10,Consulting / Agency,unlimited,IT
+28.0,Male,Berlin,Senior,Backend Developer,7,Java,70000.0,5000.0,,65000.0,,,25.0,,English,,50-100,Startup,unlimited,Catering
+32.0,Male,Munich,Senior,DevOps,9,AWS,90000.0,9000.0,,,,,30.0,20.0,English,,1000+,Product,unlimited,Software Development
+29.0,Male,Krakow,Senior,QA,7,Java,45000.0,,,33000.0,,,26.0,4.0,English,Grand Parade,100-1000,Product,unlimited,Gambling
+25.0,Female,Munich,Junior,Frontend Developer,2,Javascript / Typescript,42000.0,,,,,,30.0,,Deutsch,,50-100,Consulting / Agency,unlimited,Media
+26.0,Male,Munich,Middle,Backend Developer,5,Java,59000.0,3000.0,,55000.0,3000.0,,27.0,,English,check24,,Product,unlimited,Finance / Insurance
+44.0,Male,Munich,Middle,Frontend Developer,5,Javascript / Typescript,60000.0,2000.0,,52000.0,2000.0,,27.0,0.0,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+29.0,Male,Berlin,,DevOps,10,,70000.0,,,,,,25.0,,English,,100-1000,Startup,unlimited,
+28.0,Male,Berlin,Senior,Backend Developer,7,Java,65000.0,5000.0,,60000.0,,,25.0,,English,,50-100,Startup,unlimited,Catering
+45.0,Female,Frankfurt,Middle,Database Developer (DBA),2,SQL,62000.0,2000.0,,59000.0,,,30.0,4.0,Deutsch,,50-100,Product,more than 1 year,Finance / Insurance
+39.0,Male,Munich,Senior,Desktop/Unity3D Developer,15,.NET,49375.0,7900.0,,46250.0,7400.0,,30.0,5.0,Deutsch,CAXperts,10-50,Product,unlimited,Сonstruction
+36.0,Male,Berlin,Senior,Manager,13,Java,80000.0,,,70000.0,,,30.0,0.0,English,,1000+,Product,unlimited,Сommerce
+32.0,Male,Berlin,Middle,Mobile Developer,5,Swift,60000.0,6000.0,,56400.0,,,28.0,4.0,English,,100-1000,Product,unlimited,Сommerce
+38.0,Male,Munich,Senior,Software Architect,17,C/C++,120000.0,25000.0,30000.0,117000.0,20000.0,12000.0,28.0,0.0,English,,1000+,Product,unlimited,Software Development
+42.0,Female,Munich,Middle,Product Manager,10,Not Relevant,68700.0,4000.0,,,,,30.0,10.0,English,,50-100,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Prague,Senior,DevOps,11,Python,33200.0,,,,,,25.0,5.0,English,Oracle,1000+,Product,unlimited,
+32.0,Male,Munich,Middle,Backend Developer,8,Java,68000.0,,,66000.0,,,30.0,,English,,1000+,Product,unlimited,Media
+33.0,Male,Munich,Senior,Fullstack Developer,8,.NET,63000.0,,,62000.0,,,30.0,8.0,English,,100-1000,Product,unlimited,Transport
+34.0,Male,Cologne,Senior,Manager,15,Not Relevant,60000.0,10000.0,,48000.0,500.0,,28.0,5.0,English,,1000+,Consulting / Agency,unlimited,IT
+35.0,Male,Munich,Senior,Software Architect,15,AWS,120000.0,55000.0,,,,,Not mentioned,,Russian,,1000+,Product,unlimited,
+35.0,Male,Frankfurt,Senior,Backend Developer,16,PHP,55000.0,0.0,,55000.0,,,24.0,,English,,50-100,Product,unlimited,Finance / Insurance
+24.0,Male,Frankfurt,Junior,DevOps,1,AWS,45000.0,,,40000.0,,,28.0,10.0,Deutsch,,50-100,Consulting / Agency,unlimited,Сommerce
+48.0,Female,Munich,Senior,Manager,11,Not Relevant,75000.0,,,,,,27.0,5.0,English,,100-1000,Product,unlimited,Tourism
+31.0,Male,Wroclaw,Senior,Backend Developer,10,Ruby,45000.0,2500.0,,,,,28.0,20.0,English,,50-100,Consulting / Agency,more than 1 year,
+40.0,Female,Munich,Senior,SAP Consultant,9,Not Relevant,89000.0,,,87000.0,,,30.0,6.0,English,Avnet,1000+,Product,unlimited,Manufacture
+29.0,Male,Cologne,Senior,Fullstack Developer,4,.NET,65000.0,0.0,,45000.0,,,30.0,1.0,Deutsch,,1000+,Product,unlimited,Manufacture
+38.0,Male,Munich,Lead,Fullstack Developer,17,Javascript / Typescript,114000.0,0.0,,,,,24.0,20.0,English,,100-1000,Product,unlimited,
+36.0,Male,Stuttgart,Senior,Mobile Developer,16,Javascript / Typescript,60000.0,4800.0,,60000.0,,,30.0,2.0,English,internetstores GmbH,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,,Manager,10,Not Relevant,85000.0,25000.0,,82500.0,25000.0,,30.0,,Deutsch,,1000+,Product,unlimited,
+34.0,Male,Munich,Junior,Backend Developer,3,Java,46000.0,2000.0,,,,,Not mentioned,,Deutsch,,100-1000,Product,unlimited,
+32.0,Male,Berlin,Senior,Backend Developer,12,Ruby,65000.0,,,55000.0,,,28.0,0.0,Russian,,100-1000,Product,unlimited,Finance / Insurance
+29.0,Male,Munich,Lead,DevOps,10,AWS,85000.0,15000.0,10.0,75000.0,,,28.0,,English,,1000+,Product,unlimited,
+47.0,Male,London,Middle,Data Engineer,22,Google Cloud,100000.0,0.0,1.0,100000.0,1.0,0.0,14.0,4.0,English,,100-1000,Product,6 months,Publishing
+36.0,Male,Munich,Middle,Backend Developer,10,PHP,75000.0,,,,,,30.0,0.0,English,,50-100,Product,unlimited,
+32.0,Female,Frankfurt,Senior,Recruiter ,10,Not Relevant,56000.0,80000.0,,36000.0,50000.0,,24.0,4.0,English,,100-1000,Consulting / Agency,unlimited,Software Development
+34.0,Male,Karlsruhe,Senior,Fullstack Developer,12,Javascript / Typescript,75000.0,,,66000.0,4000.0,,27.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+29.0,Female,Munich,Middle,Data Scientist,4,R,62000.0,5000.0,,60000.0,5000.0,,30.0,4.0,Deutsch,,100-1000,Product,unlimited,Сommerce
+31.0,Male,Munich,Senior,Backend Developer,9,Java,75000.0,,,75000.0,,,28.0,,English,,10-50,Startup,unlimited,
+41.0,Female,Munich,Middle,QA,9,Java,46000.0,1.0,,39000.0,1.0,,28.0,8.0,Deutsch,assyst,50-100,Product,unlimited,Manufacture
+35.0,Male,Munich,Senior,Software Architect,6,.NET,79000.0,6000.0,,,,,30.0,3.0,Deutsch,Mse,100-1000,Consulting / Agency,unlimited,Manufacture
+37.0,Male,Munich,Senior,Backend Developer,14,C/C++,72000.0,3000.0,,,,,27.0,2.0,English,,100-1000,Product,unlimited,Finance / Insurance
+39.0,Female,Munich,Middle,Backend Developer,17,Java,58000.0,2000.0,,55000.0,2000.0,0.0,30.0,9.0,Deutsch,,1000+,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,Senior,Frontend Developer,7,Javascript / Typescript,65000.0,,,,,,Not mentioned,4.0,Deutsch,,50-100,Product,unlimited,
+25.0,Female,Munich,Middle,Fullstack Developer,5,.NET,66000.0,,,,59000.0,,26.0,,Deutsch,Medialesson,10-50,Consulting / Agency,unlimited,
+29.0,Male,Munich,Middle,Fullstack Developer,8,Java,80000.0,10000.0,5000.0,70000.0,1.0,1.0,28.0,8.0,English,Amazin,1000+,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Middle,Frontend Developer,3,Javascript / Typescript,55000.0,,,,,,Not mentioned,0.0,English,,1000+,Product,unlimited,Finance / Insurance
+28.0,Male,Munich,Senior,Data Scientist,4,Not Relevant,59000.0,5000.0,,54000.0,4000.0,,30.0,2.0,English,,1000+,Product,unlimited,Tourism
+47.0,Male,Munich,Senior,Backend Developer,25,.NET,87600.0,,,,,,Not mentioned,,Deutsch,,up to 10,Product,unlimited,
+31.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,67000.0,0.0,,53000.0,,0.0,24.0,4.0,English,,1000+,Product,unlimited,Сommerce
+40.0,Male,Munich,Middle,Product Manager,15,Not Relevant,73000.0,2000.0,,70000.0,,,30.0,,English,,1000+,Product,unlimited,Tourism
+32.0,Male,Munich,Lead,Backend Developer,14,PHP,80000.0,8000.0,,70000.0,,,30.0,4.0,Deutsch,Burda,1000+,Product,unlimited,
+34.0,Male,Berlin,Senior,Backend Developer,10,C/C++,90000.0,,,75000.0,,,30.0,10.0,English,,100-1000,Product,unlimited,
+34.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,68000.0,6800.0,,65000.0,,0.0,26.0,,English,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Munich,Senior,Fullstack Developer,15,PHP,120000.0,0.0,,114000.0,,,25.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+31.0,Male,Frankfurt,Middle,System Administrator,10,Python,65000.0,5000.0,,65000.0,5000.0,,25.0,,English,360T,100-1000,Product,more than 1 year,Finance / Insurance
+37.0,Male,Munich,Middle,Business Analyst,15,Not Relevant,87000.0,5000.0,800.0,84000.0,5000.0,800.0,30.0,5.0,English,,1000+,,unlimited,Manufacture
+33.0,Male,Munich,Senior,QA,5,Kotlin,70000.0,5000.0,360.0,60000.0,,0.0,30.0,4.0,English,,1000+,Product,unlimited,Media
+34.0,Female,Berlin,Senior,QA,12,.NET,74000.0,0.0,1.0,62000.0,,,30.0,0.0,Deutsch,,1000+,Product,unlimited,Health
+32.0,Male,Munich,Senior,Mobile Developer,14,Swift,90000.0,,,90000.0,,,29.0,,English,,,Product,unlimited,Сommerce
+38.0,Male,Berlin,Senior,Backend Developer,13,Java,77400.0,7800.0,,76800.0,8131.0,,30.0,4.0,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+32.0,Male,Berlin,Senior,QA,13,Java,65000.0,0.0,,,,,24.0,,English,HelloFresh,100-1000,Product,unlimited,Catering
+27.0,Male,Berlin,Senior,QA,7,Java,63000.0,6300.0,,,,,30.0,,English,,50-100,Startup,unlimited,Сommerce
+54.0,Male,Ingolstadt,Senior,Data Scientist,8,R,78000.0,,,,,,30.0,4.0,Deutsch,C,1000+,Product,more than 1 year,Transport
+35.0,Male,Düsseldorf,Middle,Backend Developer,6,.NET,55000.0,,,,,,30.0,20.0,English,,10-50,Bodyshop / Outsource,unlimited,Software Development
+31.0,Male,Stuttgart,Middle,Mobile Developer,6,Javascript / Typescript,50000.0,1000.0,,,,,30.0,3.0,Deutsch,EnBw,1000+,Product,unlimited,Scientific Activities
+42.0,Male,Berlin,Senior,"CTO (CEO, CFO)",20,Not Relevant,120000.0,0.0,10000.0,76000.0,1.0,0.0,24.0,0.0,English,,100-1000,Startup,unlimited,
+25.0,Female,Munich,Junior,Manager,1,,43200.0,10100.0,,,,,26.0,,Deutsch,,1000+,Consulting / Agency,unlimited,Logistics
+Not mentioned,Male,Hamburg,Senior,DevOps,15,Not Relevant,78000.0,0.0,1.0,,,,30.0,,English,,50-100,,unlimited,
+38.0,Male,Munich,Senior,Manager,12,Not Relevant,96000.0,0.0,,96000.0,,,30.0,10.0,English,Allianz Technology,1000+,Consulting / Agency,unlimited,Finance / Insurance
+34.0,Male,Munich,Senior,Manager,16,PHP,85000.0,,,,,,28.0,20.0,English,,1000+,Product,unlimited,Сommerce
+40.0,Male,Frankfurt,Senior,Software Architect,20,Java,95000.0,15000.0,,85000.0,2000.0,,30.0,10.0,English,СПШ,1000+,Bodyshop / Outsource,unlimited,Finance / Insurance
+30.0,Male,Munich,Senior,Frontend Developer,9,Javascript / Typescript,75000.0,0.0,,,,,27.0,0.0,Russian,,10-50,Product,unlimited,
+30.0,Male,Munich,Middle,Machine Learning Engineer,2,Python,62000.0,,,52000.0,,,30.0,5.0,English,,up to 10,Startup,unlimited,Transport
+25.0,Male,Munich,Junior,Frontend Developer,1,Javascript / Typescript,70000.0,5000.0,,,,,20.0,,English,,100-1000,Startup,more than 1 year,Сommerce
+25.0,Male,Munich,Junior,Frontend Developer,1,Javascript / Typescript,70000.0,5000.0,,,,,20.0,,English,,100-1000,Startup,more than 1 year,Сommerce
+25.0,Female,Munich,Middle,Researcher,5,C/C++,57000.0,,,,,,28.0,4.0,English,Altran,1000+,Consulting / Agency,unlimited,Transport
+31.0,Male,Munich,Senior,Mobile Developer,8,Swift,65000.0,,5.0,,,,24.0,5.0,English,Kaia health ,50-100,Startup,unlimited,Health
+32.0,Male,Frankfurt,Middle,Mobile Developer,4,Kotlin,50000.0,,,,,,Not mentioned,,English,,10-50,Product,unlimited,
+25.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,80000.0,8000.0,,62000.0,,,30.0,10.0,English,,100-1000,Product,unlimited,Media
+32.0,Female,Munich,Middle,Fullstack Developer,10,Java,47500.0,,,47500.0,,,25.0,,English,Specific group,10-50,Bodyshop / Outsource,unlimited,Finance / Insurance
+31.0,Male,Munich,Lead,Fullstack Developer,10,Javascript / Typescript,72000.0,7000.0,,66000.0,6000.0,,28.0,,English,CHECK24,1000+,Product,unlimited,Finance / Insurance
+32.0,Male,Munich,Middle,Backend Developer,12,Java,64000.0,0.0,,61000.0,,,24.0,,English,,100-1000,Startup,1 year,Finance / Insurance
+44.0,Male,Munich,Senior,Manager,22,Not Relevant,107000.0,37000.0,,146000.0,35.0,,30.0,,Deutsch,,1000+,Product,unlimited,Сommerce
+36.0,Male,Munich,Senior,Backend Developer,13,PHP,60000.0,5000.0,,55000.0,6000.0,,28.0,4.0,English,,50-100,Product,unlimited,Tourism
+38.0,Female,Frankfurt,Junior,Frontend Developer,1,Javascript / Typescript,36000.0,,,,,,30.0,5.0,Deutsch,,100-1000,Consulting / Agency,unlimited,
+Not mentioned,Male,Munich,Senior,Not mentioned,7,,63500.0,7000.0,1.0,,,,Not mentioned,,English,,1000+,Product,unlimited,
+32.0,Male,Munich,Senior,Backend Developer,5,PHP,65000.0,,,65000.0,,,30.0,5.0,English,Sixt,1000+,Product,unlimited,Transport
+32.0,Male,Munich,Lead,Fullstack Developer,14,Scala,98000.0,,,90000.0,,,30.0,,English,,100-1000,Product,unlimited,Transport
+27.0,Male,Munich,Middle,Backend Developer,7,PHP,66000.0,,,66000.0,,,28.0,,Deutsch,,100-1000,Product,unlimited,Manufacture
+27.0,Female,Nuremberg,Middle,Business Analyst,5,,42000.0,,,,,,25.0,1.0,English,,1000+,Product,unlimited,Software Development
+Not mentioned,Male,Munich,Senior,QA,11,Not Relevant,69000.0,,4000.0,67000.0,,,30.0,2.0,Deutsch,,100-1000,Product,unlimited,
+29.0,Male,Berlin,Senior,Backend Developer,7,Python,78000.0,,,73000.0,,,28.0,20.0,English,,100-1000,Product,unlimited,Сommerce
+26.0,Female,Frankfurt,Middle,Manager,2,Not Relevant,45000.0,0.0,,43000.0,,,30.0,,Deutsch,LogPay Transport Services GmbH,50-100,Product,unlimited,Finance / Insurance
+Not mentioned,Female,Munich,Junior,Data Scientist,0,Python,59000.0,,,,,,26.0,0.0,Deutsch,,50-100,Product,unlimited,IT
+35.0,Male,Munich,Senior,Mobile Developer,7,Kotlin,77500.0,,,70000.0,,,29.0,6.0,English,,100-1000,Product,unlimited,Health
+26.0,Male,Berlin,Senior,Data Scientist,5,Python,80000.0,,,,,,Not mentioned,,English,,10-50,Startup,unlimited,HR
+25.0,Male,Munich,Middle,Mobile Developer,4,Swift,60000.0,0.0,,60000.0,,,30.0,3.0,English,,100-1000,Product,unlimited,IoT
+Not mentioned,Male,Cologne,Senior,Software Engineer,13,C/C++,70000.0,,,,,,35.0,0.0,English,,50-100,Product,unlimited,Manufacture
+28.0,Female,Berlin,Junior,Data Scientist,1,Python,55000.0,5000.0,,,,,28.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+36.0,Male,Berlin,Senior,Frontend Developer,11,Clojure,85000.0,,,,,,28.0,20.0,English,,10-50,Startup,unlimited,Design
+24.0,Male,Berlin,Middle,Machine Learning Engineer,3,Python,75000.0,,,,,,Not mentioned,,English,,10-50,Startup,unlimited,Customer Support
+34.0,Male,Frankfurt,Senior,Software Architect,10,Python,100000.0,25000.0,,76000.0,10000.0,0.0,30.0,20.0,English,,1000+,Product,unlimited,Software Development
+34.0,Male,Munich,Senior,Backend Developer,11,Javascript / Typescript,92000.0,,,,,,30.0,15.0,English,,50-100,Product,unlimited,Health
+34.0,Male,Munich,Senior,Backend Developer,11,Javascript / Typescript,92000.0,,,,,,30.0,15.0,English,,50-100,Product,unlimited,Health
+36.0,Male,Berlin,Senior,Backend Developer,10,Java,78000.0,,,78000.0,,,28.0,4.0,English,Zalando,1000+,Product,unlimited,Сommerce
+33.0,Male,Hamburg,Middle,Software Engineer,13,C/C++,55000.0,,,,,,29.0,,English,actian,,Product,unlimited,Software Development
+29.0,Female,Berlin,Middle,Machine Learning Engineer,3,Python,46000.0,,,,,,30.0,2.0,English,,10-50,Startup,unlimited,Health
+31.0,Male,Munich,Senior,Fullstack Developer,8,Java,68000.0,3000.0,,,,,26.0,2.0,English,,10-50,Product,unlimited,Finance / Insurance
+30.0,Male,Berlin,Senior,Backend Developer,12,Python,70000.0,,,,,,Not mentioned,,English,,10-50,Startup,unlimited,IT
+33.0,Male,Munich,Senior,Embedded Developer,11,C/C++,78000.0,,,72000.0,,,25.0,,Russian,,up to 10,Bodyshop / Outsource,unlimited,Automotive
+29.0,Female,Munich,Middle,Mobile Developer,8,Swift,65000.0,5000.0,,50000.0,,,30.0,4.0,English,,1000+,Product,unlimited,Media
+32.0,Female,Riga,Junior,Backend Developer,1,AWS,13200.0,0.0,,,,,20.0,4.0,English,,50-100,Consulting / Agency,unlimited,Сonstruction
+29.0,Male,Munich,Senior,Backend Developer,9,.NET,60000.0,,,,,,30.0,4.0,English,,up to 10,Product,unlimited,
+33.0,Male,Munich,Senior,Cloud Platform Engineer,10,Google Cloud,80000.0,25000.0,3000.0,,,,30.0,15.0,English,SAP,1000+,Product,unlimited,Software Development
+Not mentioned,Male,Munich,Senior,Mobile Developer,5,Kotlin,70000.0,1000.0,,,,,28.0,3.0,English,,up to 10,Consulting / Agency,unlimited,Finance / Insurance
+29.0,Male,Berlin,Senior,Fullstack Developer,10,PHP,70000.0,,,60000.0,,,28.0,,English,Global fashion group ,1000+,Product,unlimited,Сommerce
+43.0,Male,Berlin,Senior,Data Engineer,10,SQL,60000.0,,,60000.0,,,Not mentioned,20.0,Russian,,up to 10,Startup,unlimited,Сommerce
+Not mentioned,Female,Bern,Middle,QA,5,Not Relevant,120000.0,0.0,,105000.0,,,25.0,4.0,Deutsch,,1000+,Product,unlimited,Transport
+36.0,Male,Berlin,Senior,Software Architect,14,PHP,75000.0,,,69000.0,,,28.0,20.0,English,,100-1000,Product,unlimited,Сommerce
+30.0,Male,Munich,Senior,Backend Developer,6,Ruby,67000.0,3000.0,,,,,30.0,5.0,English,,,Product,,Finance / Insurance
+27.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,66000.0,,,,,,24.0,4.0,English,,100-1000,Product,unlimited,Transport
+36.0,Female,Berlin,,Backend Developer,3,Java,45000.0,,,38000.0,,,30.0,3.0,English,,10-50,Product,unlimited,Health
+28.0,Male,Frankfurt,Middle,Data Scientist,2,Python,55000.0,,,,,,30.0,5.0,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+34.0,Male,Berlin,Senior,Machine Learning Engineer,10,Scala,80000.0,,,,,,30.0,20.0,English,Namaste Technologies,50-100,Product,unlimited,Сommerce
+29.0,Male,Berlin,Senior,DevOps,10,Ruby,72000.0,,,65000.0,,,30.0,20.0,English,,100-1000,Product,unlimited,Education
+27.0,Male,Moscow,Senior,Backend Developer,7,Go,66000.0,,,,,,30.0,20.0,Russian,,100-1000,Startup,1 year,
+29.0,Male,Berlin,Senior,Backend Developer,8,Java,70000.0,,10000.0,,,,28.0,,English,,1000+,Product,unlimited,Catering
+29.0,Male,Munich,Senior,Fullstack Developer,9,Javascript / Typescript,75000.0,,,,,,30.0,20.0,English,,100-1000,Product,unlimited,Fashion
+28.0,Female,Munich,Senior,"Designer (UI, UX)",9,Not Relevant,70000.0,,,50000.0,3000.0,,30.0,,English,,10-50,Product,unlimited,Сommerce
+26.0,Male,Munich,,Mobile Developer,1,Javascript / Typescript,59000.0,,,,,,20.0,4.0,English,,50-100,Startup,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Backend Developer,5,Ruby,80000.0,5000.0,,75000.0,,,28.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+34.0,Male,Munich,Senior,Researcher,12,C/C++,90000.0,22500.0,,,,,30.0,0.0,English,,100-1000,Product,unlimited,Transport
+32.0,Male,Berlin,Senior,Backend Developer,11,Java,81600.0,2500.0,12000.0,78000.0,3000.0,0.0,36.0,5.0,English,,1000+,Product,unlimited,Transport
+35.0,Male,Düsseldorf,Senior,DevOps,15,AWS,65000.0,0.0,,65000.0,,,30.0,5.0,Deutsch,,up to 10,Consulting / Agency,unlimited,Finance / Insurance
+28.0,Male,Berlin,Middle,QA,7,Python,62000.0,0.0,1.0,,,,30.0,,English,,100-1000,Bodyshop / Outsource,unlimited,Transport
+Not mentioned,Male,Berlin,Lead,Machine Learning Engineer,9,Python,128000.0,36000.0,72000.0,120000.0,30000.0,60000.0,30.0,4.0,English,,1000+,Product,unlimited,Сommerce
+38.0,Female,Berlin,Senior,SAP Consultant,10,SAP / ABAP,92000.0,,,78000.0,,,28.0,5.0,Deutsch,,1000+,Product,unlimited,Manufacture
+24.0,Male,Berlin,Middle,Backend Developer,4,Java,65000.0,,,44000.0,,,26.0,,English,,100-1000,Product,unlimited,
+32.0,Male,Berlin,Senior,Backend Developer,5,Java,62000.0,5000.0,,58000.0,,,28.0,,Deutsch,,1000+,Consulting / Agency,unlimited,IT
+Not mentioned,Male,Berlin,Senior,Backend Developer,8,Java,96000.0,14000.0,,90000.0,12000.0,,28.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Stuttgart,Senior,Machine Learning Engineer,5,Python,98000.0,10000.0,,,,,Not mentioned,,Deutsch,,100-1000,Product,unlimited,Manufacture
+36.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,80000.0,,,70000.0,,,30.0,,English,,100-1000,Product,unlimited,Real Estate
+Not mentioned,Male,Berlin,Senior,Software Architect,11,Java,124000.0,46000.0,,,,,32.0,,English,,1000+,Product,unlimited,
+Not mentioned,Male,Munich,Senior,Researcher,9,Python,130000.0,18000.0,72000.0,,,,30.0,,English,,1000+,Product,unlimited,
+Not mentioned,Male,Berlin,Senior,Backend Developer,4,Ruby,62000.0,,,,,,25.0,,English,,50-100,Startup,1 year,
+Not mentioned,Male,Berlin,Lead,Software Architect,8,Python,106000.0,22000.0,,,,,30.0,8.0,English,,100-1000,Product,unlimited,Сommerce
+42.0,Female,Berlin,Senior,Backend Developer,12,PHP,55000.0,,,55000.0,,,26.0,0.0,English,,50-100,Product,unlimited,Сommerce
+Not mentioned,Male,Darmstadt,Senior,Backend Developer,10,Java,70000.0,0.0,,,,,26.0,10.0,Deutsch,,100-1000,,unlimited,Telecom
+30.0,Male,Hamburg,Senior,Data Scientist,6,Python,85000.0,5000.0,,80000.0,,,25.0,0.0,English,About You GmbH,100-1000,Startup,unlimited,Сommerce
+Not mentioned,Male,Frankfurt,Senior,Lawyer ,7,,170000.0,20000.0,,160000.0,,10.0,Not mentioned,0.0,English,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+30.0,Male,Berlin,Senior,Backend Developer,6,Python,70000.0,,,65000.0,,,27.0,0.0,Russian,Vimcar,100-1000,Startup,unlimited,Finance / Insurance
+28.0,Male,Berlin,Middle,Backend Developer,8,Java,68000.0,,,67000.0,,,28.0,4.0,English,Zalando,1000+,Product,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Software Architect,15,Java,95000.0,,,85000.0,,,30.0,5.0,English,,100-1000,Product,unlimited,Advertising
+29.0,Male,Munich,Middle,Mobile Developer,7,Swift,70000.0,0.0,,45000.0,,,30.0,0.0,English,1&1 UNITED INTERNET,1000+,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Middle,Data Scientist,3,Python,71000.0,,,60000.0,,,30.0,0.0,English,tado,100-1000,Startup,unlimited,Manufacture
+35.0,Male,Berlin,Senior,Backend Developer,16,PHP,65000.0,,,60000.0,,,Not mentioned,0.0,English,,100-1000,Product,unlimited,Сommerce
+30.0,Male,Berlin,Senior,Backend Developer,8,Scala,86000.0,,,,,,30.0,,English,,100-1000,Product,unlimited,
+34.0,Male,Berlin,Senior,Embedded Developer,12,C/C++,60000.0,5000.0,,,,,25.0,5.0,English,,100-1000,Startup,unlimited,Сommerce
+29.0,Male,Dusseldorf,Senior,Backend Developer,8,Java,70000.0,,,,,,25.0,,English,trivago,1000+,,,Tourism
+41.0,Male,Munich,Junior,Backend Developer,0,Java,55000.0,5000.0,,32000.0,8000.0,,30.0,2.0,English,ProSiebenSat.1,1000+,Product,unlimited,Telecom
+33.0,Male,Karlsruhe,Senior,QA,7,Java,67000.0,6700.0,3000.0,65000.0,6000.0,3000.0,30.0,5.0,English,,1000+,Product,unlimited,Сommerce
+31.0,Male,Frankfurt,Senior,Data Scientist,7,Python,85000.0,15000.0,,,,,30.0,10.0,English,,1000+,,unlimited,Health
+25.0,Male,Kyiv,Senior,DevOps,4,Go,60000.0,,12500.0,42000.0,,0.0,Not mentioned,,Russian,,1000+,Product,unlimited,Сommerce
+27.0,Female,Berlin,Middle,Data Scientist,3,Python,67000.0,0.0,,,,,27.0,20.0,English,,1000+,Product,unlimited,Сommerce
+29.0,Male,Kyiv,Senior,DevOps,8,AWS,65000.0,,,,,,21.0,20.0,Russian,,50-100,Product,unlimited,Health
+27.0,Male,Berlin,Senior,Researcher,5,Python,100000.0,0.0,,,,,30.0,4.0,English,,100-1000,Startup,unlimited,Manufacture
+36.0,Male,Berlin,Middle,Data Scientist,18,Python,56000.0,5000.0,,58000.0,,0.0,22.0,2.0,English,,100-1000,Product,more than 1 year,Gaming
+28.0,Male,Munich,Middle,Business Analyst,7,Javascript / Typescript,62500.0,,,,,,30.0,20.0,English,,1000+,Product,more than 1 year,Software Development
+33.0,Male,Berlin,Middle,Backend Developer,10,Kotlin,76000.0,16000.0,2000.0,74000.0,,1000.0,28.0,4.0,English,,1000+,Product,unlimited,Сommerce
+34.0,Male,Freiburg,Middle,Backend Developer,2,Java,42000.0,,,42000.0,,,28.0,,English,,100-1000,Consulting / Agency,unlimited,
+36.0,Male,Berlin,Senior,Manager,15,Not Relevant,77000.0,,,83000.0,,,24.0,,English,,100-1000,Product,1 year,Finance / Insurance
+23.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,65000.0,,,,,,22.0,,English,Auto1,100-1000,Product,unlimited,Transport
+35.0,Male,Berlin,Senior,Backend Developer,17,PHP,60000.0,,,,,,24.0,0.0,Russian,Auto1 Group,100-1000,Product,unlimited,Transport
+27.0,Male,Munich,Middle,Data Engineer,1,Python,58000.0,,,48000.0,,,30.0,20.0,English,,10-50,Startup,more than 1 year,
+30.0,Male,Munich,Senior,Mobile Developer,9,Kotlin,72000.0,3000.0,,65000.0,3000.0,,24.0,,Russian,Social Network,10-50,Startup,unlimited,Media
+37.0,Male,Amsterdam,Senior,QA,14,AWS,75000.0,,,78000.0,,,25.0,,English,Video Streaming,100-1000,Product,unlimited,Media
+Not mentioned,Male,Berlin,Senior,Machine Learning Engineer,10,Python,108000.0,18000.0,25000.0,,,,30.0,,English,,100-1000,Product,unlimited,
+41.0,Male,Munich,Senior,Backend Developer,20,Java,78000.0,0.0,,75000.0,,,30.0,4.0,English,,100-1000,Product,unlimited,Software Development
+32.0,Male,Vienna,Lead,Software Architect,12,.NET,80000.0,8800.0,,,,,25.0,4.0,English,Nuance ,1000+,Product,unlimited,Health
+34.0,Male,Berlin,Senior,Backend Developer,13,Python,70000.0,0.0,,65000.0,,,30.0,4.0,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Senior,Software Architect,10,Java,120000.0,48000.0,,,,,35.0,,,,1000+,Product,,Manufacture
+45.0,Male,Berlin,Middle,Data Engineer,14,Java,34446.0,,,,,,Not mentioned,,English,,50-100,Product,unlimited,Сonstruction
+Not mentioned,Male,Frankfurt,Senior,Backend Developer,8,Java,108000.0,36000.0,,,,,28.0,0.0,,,100-1000,,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,Lead,Data Scientist,8,Python,130000.0,36000.0,,,,,32.0,4.0,,,1000+,Product,,Manufacture
+Not mentioned,Male,Stuttgart,Senior,Fullstack Developer,6,Python,90000.0,12000.0,,,,,26.0,,,,,,,Manufacture
+Not mentioned,Female,Berlin,Senior,Data Scientist,7,Python,65000.0,3000.0,,,,,28.0,,English,,50-100,Startup,unlimited,
+Not mentioned,Male,Munich,Senior,Frontend Developer,4,Javascript / Typescript,70000.0,,,55000.0,,,27.0,20.0,English,,10-50,Product,unlimited,Сommerce
+36.0,Male,Kyiv,Middle,DevOps,3,AWS,38400.0,,,,30000.0,,24.0,4.0,Russian,,1000+,Bodyshop / Outsource,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Data Scientist,6,Python,96000.0,18000.0,,,,,30.0,,,,,Product,,
+35.0,Male,Frankfurt,Senior,Product Manager,13,Not Relevant,60000.0,,,,,,27.0,,Deutsch,,10-50,Startup,unlimited,Сommerce
+32.0,Female,Munich,Senior,Backend Developer,8,Java,62000.0,6000.0,,,,,Not mentioned,,English,,1000+,Product,unlimited,Finance / Insurance
+29.0,Male,Munich,Middle,Frontend Developer,8,Javascript / Typescript,65000.0,,,61500.0,,,30.0,,English,,100-1000,Product,unlimited,
+Not mentioned,Female,Munich,,SAP Consultant,10,SAP / ABAP,80200.0,4000.0,,,,,30.0,1.0,Deutsch,,100-1000,,,Finance / Insurance
+33.0,Male,Munich,Lead,Backend Developer,11,Java,90000.0,,,85000.0,,,28.0,,English,,100-1000,Product,unlimited,Dating
+33.0,Male,Kyiv,Middle,System Administrator,15,Not Relevant,36000.0,2000.0,,20000.0,2000.0,0.0,24.0,5.0,Russian,,10-50,Consulting / Agency,unlimited,Government
+39.0,Male,Munich,Senior,Fullstack Developer,15,PHP,75700.0,4000.0,,60000.0,,0.0,30.0,8.0,English,,100-1000,Product,unlimited,Сommerce
+25.0,Female,Cologne,Junior,IT Security,2,Not Relevant,46000.0,3000.0,,,,,30.0,20.0,Deutsch,,1000+,,unlimited,Telecom
+33.0,Female,Berlin,Middle,QA,5,Ruby,63400.0,,,51000.0,,,28.0,,English,,1000+,Product,unlimited,Catering
+35.0,Male,Munich,Senior,Backend Developer,16,Java,70000.0,,,70000.0,,,25.0,,Russian,3D,10-50,Product,unlimited,Media
+34.0,Male,Berlin,Senior,Backend Developer,9,.NET,70000.0,7000.0,,,,,25.0,,English,,1000+,Product,unlimited,Сommerce
+31.0,Female,Frankfurt,Senior,Backend Developer,7,Java,68000.0,,,72000.0,,,28.0,10.0,English,,10-50,Startup,unlimited,Security
+Not mentioned,Male,Amsterdam,Senior,Machine Learning Engineer,11,Python,106000.0,25000.0,117000.0,,,,26.0,,English,,1000+,Startup,unlimited,
+34.0,Male,Pforzheim,Senior,Backend Developer,13,Java,75000.0,,,65000.0,,,29.0,0.0,Deutsch,,50-100,Product,unlimited,Сommerce
+32.0,Male,Munich,Senior,Software Architect,8,Java,100000.0,,,65000.0,10000.0,,29.0,,Deutsch,,10-50,Product,unlimited,Health
+33.0,Male,Munich,Senior,Backend Developer,11,AWS,90000.0,10000.0,,80000.0,7000.0,,28.0,,English,,1000+,Product,unlimited,Manufacture
+44.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,65000.0,,,,,,24.0,,English,,10-50,Product,unlimited,Сommerce
+26.0,Male,Nuremberg,Junior,DevOps,0,Not Relevant,55000.0,,,,,,30.0,0.0,Deutsch,,,,unlimited,
+30.0,Male,Berlin,Senior,Data Scientist,8,Python,90000.0,20000.0,,,,,Not mentioned,,English,,50-100,Startup,more than 1 year,Scientific Activities
+37.0,Male,Stuttgart,Senior,Software Architect,11,Not Relevant,105000.0,,,98000.0,,,30.0,5.0,Deutsch,,1000+,Product,unlimited,Automotive
+24.0,Female,Frankfurt,Junior,Fullstack Developer,1,Java,52000.0,5000.0,,,,,30.0,0.0,Deutsch,,1000+,Product,unlimited,Finance / Insurance
+27.0,Male,Berlin,Senior,Manager,6,Python,58000.0,,,55000.0,,,27.0,1.0,English,,100-1000,Startup,unlimited,Tourism
+30.0,Male,Kassel ,Middle,Frontend Developer,4,Javascript / Typescript,55000.0,5000.0,2000.0,53500.0,4400.0,1800.0,29.0,4.0,Deutsch,Cisco,1000+,Product,unlimited,Software Development
+36.0,Male,Munich,Senior,DevOps,15,AWS,85000.0,,1.0,,,,28.0,0.0,English,Luxoft,100-1000,Consulting / Agency,unlimited,IT
+31.0,Female,Munich,Senior,Mobile Developer,8,Swift,75000.0,,,65000.0,,,26.0,20.0,English,,100-1000,Startup,unlimited,Finance / Insurance
+33.0,Male,Munich,Senior,Embedded Developer,4,C/C++,60000.0,1400.0,,55000.0,1100.0,,30.0,2.0,Deutsch,,100-1000,Consulting / Agency,unlimited,Manufacture
+Not mentioned,Female,Munich,Middle,Data Engineer,7,SQL,52000.0,6250.0,,48000.0,5250.0,,29.0,5.0,English,,1000+,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,Senior,Software Architect,12,Java,85000.0,5000.0,,72000.0,5000.0,,24.0,15.0,English,IntellectEU,100-1000,Product,unlimited,Finance / Insurance
+43.0,Male,Berlin,Middle,Backend Developer,20,Ruby,70000.0,7000.0,15000.0,67000.0,,0.0,24.0,8.0,English,,1000+,Product,unlimited,Сommerce
+40.0,Male,Frankfurt,Senior,Manager,18,Not Relevant,88000.0,,,88000.0,7000.0,4000.0,30.0,15.0,English,,1000+,Bodyshop / Outsource,unlimited,IT
+35.0,Male,Munich,Senior,DevOps,15,Java,73000.0,6000.0,,70000.0,5700.0,,Not mentioned,5.0,Deutsch,BMW,1000+,Product,unlimited,Manufacture
+36.0,Male,Munich,Senior,Mobile Developer,20,Swift,150000.0,,,80000.0,,,60.0,15.0,Deutsch,,up to 10,Bodyshop / Outsource,unlimited,Transport
+28.0,Male,Munich,Senior,Backend Developer,7,Java,74000.0,6000.0,,69000.0,6000.0,,28.0,,English,,1000+,Product,unlimited,Сommerce
+31.0,Male,Munich,Senior,Backend Developer,10,Java,78000.0,,15000.0,70000.0,,15000.0,28.0,,English,,100-1000,Startup,unlimited,Tourism
+30.0,Male,Munich,Head,DevOps,10,AWS,77000.0,10000.0,,70000.0,1.0,,25.0,0.0,English,,50-100,Product,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,Senior,Data Scientist,12,Python,125000.0,32000.0,,,,,30.0,,Deutsch,,100-1000,Product,unlimited,Transport
+Not mentioned,Male,Berlin,Head,"CTO (CEO, CFO)",14,C/C++,32000.0,,350000.0,,,,20.0,,English,,10-50,Startup,unlimited,
+35.0,Female,Madrid,Middle,Sales Engineer,12,Not Relevant,46000.0,3000.0,,45000.0,3500.0,,22.0,0.0,Spanish,Sulzer,1000+,Product,unlimited,Manufacture
+28.0,Male,Berlin,Senior,Backend Developer,6,Ruby,52000.0,,,52000.0,,,20.0,0.0,English,,100-1000,Startup,1 year,
+Not mentioned,Male,Berlin,Senior,Data Scientist,6,Python,87000.0,12000.0,,82000.0,8000.0,,28.0,,English,,50-100,Startup,unlimited,Сommerce
+26.0,Male,Frankfurt,Middle,Manager,5,Not Relevant,65000.0,1000.0,,59000.0,,,37.0,3.0,English,,1000+,,unlimited,Manufacture
+25.0,Male,Berlin,Middle,DevOps,3,Not Relevant,55000.0,5000.0,,,,,30.0,5.0,English,,100-1000,Startup,unlimited,Transport
+27.0,Female,Munich,Senior,QA,7,Java,69000.0,5500.0,,65000.0,5000.0,,28.0,,English,Wirecard,1000+,Product,unlimited,Finance / Insurance
+32.0,Male,Vienna,Middle,Data Scientist,2,R,70000.0,7000.0,,60000.0,5000.0,,25.0,2.0,English,Drei,100-1000,Product,unlimited,Telecom
+24.0,Male,Stuttgart,Junior,DevOps,2,.NET,44000.0,6000.0,,,,,30.0,0.0,Deutsch,,1000+,Product,unlimited,Health
+Not mentioned,Female,Marburg,Junior,Fullstack Developer,0,Java,23500.0,3500.0,,,,,30.0,5.0,Deutsch,,10-50,Product,1 year,Сommerce
+37.0,Male,Munich,Senior,Backend Developer,17,Java,76500.0,3000.0,,75000.0,,,28.0,,English,,100-1000,Product,unlimited,Scientific Activities
+27.0,Male,Berlin,Middle,DevOps,6,AWS,66000.0,,1.0,,,,28.0,20.0,English,,1000+,Product,unlimited,Finance / Insurance
+31.0,Female,Berlin,Junior,Machine Learning Engineer,1,Python,52500.0,,,,,,30.0,20.0,Deutsch,,100-1000,Consulting / Agency,unlimited,Сommerce
+29.0,Female,Munich,Middle,Machine Learning Engineer,2,Python,57000.0,3000.0,,,,,25.0,,English,,up to 10,Startup,unlimited,Catering
+37.0,Male,Berlin,Senior,Backend Developer,12,Not Relevant,70000.0,5000.0,,65000.0,5000.0,,25.0,20.0,English,,50-100,Product,unlimited,Сommerce
+34.0,Male,Berlin,Senior,QA,8,Java,59000.0,3000.0,5000.0,56000.0,3000.0,5000.0,29.0,10.0,English,NewStore,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Senior,Frontend Developer,20,Javascript / Typescript,63000.0,,,61000.0,,,30.0,4.0,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Amsterdam,Senior,Data Scientist,8,Python,98000.0,16000.0,75000.0,,,,30.0,,English,,1000+,,unlimited,
+Not mentioned,Male,Berlin,Senior,Backend Developer,8,Java,73000.0,5000.0,,,,,30.0,,English,,100-1000,Product,unlimited,Manufacture
+28.0,Female,Frankfurt,Junior,Mainframe,1,PHP,36000.0,,,,,,28.0,4.0,Deutsch,,10-50,Startup,unlimited,Telecom
+25.0,Male,Karlsruhe,Middle,Machine Learning Engineer,4,Kotlin,52200.0,,1.0,52200.0,,0.0,30.0,10.0,Deutsch,,10-50,Consulting / Agency,unlimited,IT
+Not mentioned,Male,Berlin,Lead,Backend Developer,7,Java,110000.0,20000.0,,,,,27.0,,English,,1000+,Product,unlimited,Finance / Insurance
+Not mentioned,Female,Hamburg,Middle,Frontend Developer,3,Javascript / Typescript,58000.0,6000.0,,,,,24.0,,Deutsch,,100-1000,Product,unlimited,
+Not mentioned,Male,Berlin,Senior,Data Scientist,7,R,98000.0,18000.0,20000.0,,,,25.0,,English,,50-100,Startup,unlimited,
+31.0,Male,Munich,Senior,SAP Consultant,8,Not Relevant,130000.0,,,110000.0,,,30.0,15.0,English,,1000+,Product,unlimited,IT
+27.0,Male,Munich,Junior,Software Architect,3,Not Relevant,50000.0,5000.0,,48000.0,4000.0,,33.0,10.0,English,,1000+,Product,unlimited,Manufacture
+28.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,57000.0,,,52000.0,,,26.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+32.0,Male,Frankfurt,Middle,Data Scientist,3,Python,73500.0,7000.0,,62000.0,6000.0,,30.0,5.0,Deutsch,,1000+,Product,unlimited,Health
+28.0,Female,London,Middle,Business Analyst,3,SQL,48000.0,,,,,,30.0,4.0,English,,10-50,Product,unlimited,Gaming
+29.0,Male,Berlin,Middle,Data Scientist,4,Python,68000.0,,,75000.0,10000.0,,30.0,0.0,English,,1000+,Product,unlimited,Finance / Insurance
+37.0,Male,Berlin,Middle,QA,6,Java,65000.0,,,55000.0,,,24.0,,English,,50-100,Product,6 months,Finance / Insurance
+34.0,Male,Munich,Senior,Manager,12,Not Relevant,96000.0,25000.0,1500.0,92000.0,20000.0,1500.0,28.0,20.0,English,Cisco,1000+,Product,unlimited,IT
+29.0,Male,Munich,Junior,Data Scientist,2,Python,55000.0,,,,,,30.0,4.0,Deutsch,,10-50,Startup,unlimited,Finance / Insurance
+30.0,Male,Hamburg,Senior,Data Engineer,3,Python,57000.0,3000.0,,45000.0,,,27.0,2.0,English,,100-1000,Product,unlimited,Marketing
+24.0,Male,Amsterdam,Senior,Machine Learning Engineer,3,Python,75000.0,,125.0,,,,Not mentioned,,English,,10-50,Startup,unlimited,Scientific Activities
+26.0,Male,Moscow,Middle,Data Scientist,3,R,46000.0,12000.0,1.0,23000.0,1.0,1.0,25.0,15.0,English,,1000+,Consulting / Agency,unlimited,Finance / Insurance
+28.0,Male,Hamburg,Middle,Machine Learning Engineer,4,Python,65000.0,5000.0,1.0,,,,30.0,5.0,English,,100-1000,Consulting / Agency,unlimited,IT
+25.0,Male,Munich,Junior,Data Scientist,1,Python,48000.0,5300.0,,,,,30.0,0.0,English,Allianz Investment Management,100-1000,Product,unlimited,Finance / Insurance
+39.0,Male,Munich,Senior,Data Scientist,13,Python,135000.0,60000.0,,,,,30.0,2.0,English,,100-1000,Product,unlimited,Transport
+35.0,Male,Frankfurt,Senior,Software Architect,12,AWS,70000.0,7000.0,,70000.0,7000.0,,30.0,7.0,Deutsch,,1000+,Consulting / Agency,unlimited,IT
+36.0,Male,Berlin,Middle,Data Scientist,4,Python,58000.0,,,53000.0,,,30.0,0.25,Deutsch,,10-50,Consulting / Agency,unlimited,Agriculture
+35.0,Male,Munich,Senior,Network Engineer,12,Not Relevant,75000.0,,500.0,55000.0,800.0,,30.0,7.0,Deutsch,,up to 10,Consulting / Agency,unlimited,
+30.0,Female,London,Junior,Data Engineer,3,Azure,55000.0,6000.0,,55000.0,6000.0,,30.0,,English,Shell,1000+,Product,unlimited,Energy
+39.0,Male,Warsaw,Senior,Researcher,15,SAS,22000.0,,1.0,20000.0,1.0,1.0,26.0,15.0,English,,100-1000,Product,unlimited,Health
+31.0,Male,Berlin,Senior,Manager,10,Java,106000.0,,22000.0,,,,27.0,,English,,1000+,Startup,unlimited,Сommerce
+31.0,Male,Berlin,Senior,Manager,10,Java,106000.0,,22000.0,,,,27.0,,English,,1000+,Startup,unlimited,Сommerce
+29.0,Female,Berlin,Middle,Product Manager,7,Not Relevant,67000.0,5800.0,,,,,30.0,2.0,English,MOIA,100-1000,Product,unlimited,Transport
+33.0,Male,Munich,Senior,Data Scientist,11,Python,67500.0,,1.0,65000.0,,,32.0,3.0,English,,50-100,Product,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Data Scientist,6,Python,90000.0,16000.0,,84000.0,12000.0,,30.0,,Deutsch,,100-1000,Product,unlimited,
+31.0,Male,Stuttgart,Senior,Data Engineer,3,Python,20000.0,,,,,,Not mentioned,,Russian,,1000+,Bodyshop / Outsource,less than 3 months,Real Estate
+26.0,Male,Berlin,Middle,Machine Learning Engineer,3,Python,46000.0,,,46000.0,,,24.0,2.0,English,,10-50,Product,more than 1 year,Health
+33.0,Male,Berlin,Senior,Backend Developer,8,Python,75000.0,,10000.0,70000.0,,10000.0,25.0,20.0,English,Enterprise Software,100-1000,Product,unlimited,Software Development
+29.0,Male,Berlin,Junior,Frontend Developer,1,Javascript / Typescript,67000.0,7000.0,,,,,30.0,2.0,English,,1000+,Consulting / Agency,unlimited,
+35.0,Female,Berlin,Senior,Data Scientist,10,Python,140000.0,,,110000.0,,,30.0,12.0,English,,100-1000,Startup,,
+34.0,Male,Munich,Middle,Manager,7,Not Relevant,96000.0,9600.0,,84000.0,,,30.0,,English,,100-1000,Product,unlimited,Сommerce
+29.0,Female,Berlin,Middle,Frontend Developer,4,Javascript / Typescript,52000.0,,,,,,30.0,0.0,English,,1000+,Startup,unlimited,Сommerce
+22.0,Male,London,Senior,"CTO (CEO, CFO)",3,Not Relevant,45000.0,15000.0,15000.0,10000.0,10000.0,10000.0,30.0,5.0,English,,50-100,Startup,unlimited,Advertising
+32.0,Male,Berlin,Senior,Data Engineer,12,AWS,80000.0,,,60000.0,,,26.0,20.0,English,,100-1000,Startup,unlimited,Transport
+32.0,Male,Nuremberg,Middle,Data Scientist,2,Python,50000.0,4100.0,,,,,30.0,0.0,English,GfK,1000+,Consulting / Agency,unlimited,Marketing
+31.0,Male,Munich,Senior,SRE,10,Azure,72000.0,6000.0,,68400.0,5700.0,,30.0,20.0,Deutsch,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+29.0,Male,Hannover,Middle,Data Scientist,4,Python,60000.0,,500.0,53000.0,,,30.0,3.0,Deutsch,,1000+,Product,unlimited,Finance / Insurance
+30.0,Male,Hamburg,Senior,Data Scientist,6,Python,68000.0,,,68000.0,,,25.0,0.0,English,,100-1000,Product,unlimited,Gaming
+30.0,Male,Berlin,Middle,Data Engineer,9,Python,68000.0,,,,,,28.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+29.0,Male,Berlin,Middle,Data Engineer,5,AWS,70000.0,,,,,,30.0,,English,,100-1000,Startup,unlimited,Сommerce
+30.0,Male,Berlin,Senior,Data Scientist,5,Python,85000.0,5000.0,,65000.0,,,30.0,,Deutsch,,1000+,,unlimited,
+43.0,Male,Hamburg,Senior,Software Architect,15,Java,54000.0,,,74000.0,,,28.0,2.0,English,,up to 10,Startup,unlimited,Transport
+34.0,Male,Paris,Senior,Data Scientist,9,Python,75000.0,,,62000.0,,,30.0,4.0,French,,10-50,Startup,unlimited,
+38.0,Male,Berlin,Senior,NLP Engineer,4,Python,65000.0,,,,,,26.0,20.0,English,,100-1000,Startup,unlimited,Transport
+26.0,Male,Stuttgart,Middle,Data Engineer,3,Python,67200.0,,,,,,Not mentioned,,English,Bosch,1000+,Product,more than 1 year,Scientific Activities
+38.0,Male,Hannover,Senior,Data Scientist,5,R,79000.0,23000.0,,,,,30.0,4.0,Deutsch,,100-1000,Consulting / Agency,unlimited,
+28.0,Female,London,Senior,Data Scientist,7,Python,120000.0,,,65000.0,,,25.0,4.0,English,EY,1000+,Consulting / Agency,3 months,Finance / Insurance
+30.0,Male,Berlin,Senior,"CTO (CEO, CFO)",11,Kotlin,75000.0,,,80000.0,,,25.0,4.0,English,,10-50,Startup,more than 1 year,Telecom
+34.0,Male,Cologne,Middle,Data Scientist,8,R,72000.0,16000.0,,70000.0,4000.0,,30.0,4.0,English,Bayer Business Services,1000+,Product,more than 1 year,Health
+Not mentioned,Male,Berlin,Senior,Data Scientist,8,Python,104000.0,15000.0,18000.0,,,,29.0,,English,,100-1000,Product,unlimited,
+29.0,Male,Berlin,Middle,Data Scientist,2,R,53000.0,3000.0,1.0,53000.0,1.0,0.0,27.0,0.0,French,autobiz,100-1000,Product,unlimited,Automotive
+26.0,Male,Berlin,Junior,Researcher,1,Python,40000.0,1.0,1.0,30000.0,,,30.0,4.0,English,TU,1000+,University,more than 1 year,Scientific Activities
+30.0,Male,Kyiv,Senior,DevOps,8,Azure,130000.0,10000.0,,,,,21.0,5.0,English,,1000+,Bodyshop / Outsource,unlimited,
+28.0,Male,Berlin,Principal,Software Architect,10,Not Relevant,110000.0,25000.0,50000.0,85000.0,10000.0,5000.0,25.0,20.0,English,,1000+,Product,unlimited,Software Development
+49.0,Male,Milan,Senior,Manager,24,Not Relevant,115000.0,25000.0,1.0,95000.0,20000.0,1.0,20.0,0.0,Italian,Sbi,100-1000,Product,1 year,IT
+33.0,Male,Berlin,Senior,Machine Learning Engineer,11,Python,75000.0,3000.0,,75000.0,3000.0,,30.0,5.0,English,Scout24,100-1000,Product,unlimited,Real Estate
+20.0,Male,Kyiv,Junior,Machine Learning Engineer,1,Python,14400.0,1400.0,,,,,20.0,4.0,Russian,,10-50,Startup,unlimited,Сommerce
+35.0,Male,Hamburg,Senior,Backend Developer,10,Java,62000.0,,,48000.0,,,27.0,4.0,English,,1000+,Product,unlimited,Transport
+26.0,Male,Odesa,Senior,Data Scientist,3,Python,45000.0,,,25000.0,,,20.0,0.0,Russian,,100-1000,Bodyshop / Outsource,more than 1 year,Telecom
+31.0,Male,Berlin,Senior,Data Engineer,6,Python,75000.0,,,60000.0,,,28.0,20.0,English,,100-1000,Product,unlimited,Automotive
+33.0,Female,Berlin,Junior,Researcher,8,Python,54000.0,,,,,,28.0,,English,Amazon,1000+,Product,3 months,Сommerce
+31.0,Male,Munich,Senior,Software Engineer,11,C/C++,95000.0,25000.0,,87000.0,8000.0,5000.0,30.0,,English,,100-1000,Product,unlimited,
+Not mentioned,Male,Berlin,Lead,Data Scientist,10,Python,125000.0,25000.0,,,,,30.0,10.0,English,,1000+,Product,,
+28.0,Male,Paris,Middle,Fullstack Developer,3,Java,39400.0,1000.0,,,,,25.0,,French,,1000+,Consulting / Agency,unlimited,Software Development
+36.0,Male,Berlin,Senior,DevOps,15,AWS,75000.0,10000.0,,68000.0,,,30.0,5.0,English,,50-100,Startup,unlimited,Finance / Insurance
+Not mentioned,Male,Hamburg,Junior,Backend Developer,18,Python,,,,,,,Not mentioned,,English,,1000+,Product,unlimited,Agriculture
+39.0,Male,Berlin,Senior,Data Engineer,10,Python,75000.0,7500.0,,68000.0,6800.0,,30.0,4.0,English,Here,1000+,Product,unlimited,Transport
+27.0,Female,Düsseldorf,Junior,Data Scientist,1,R,45000.0,,,,,,30.0,2.0,English,,1000+,Product,unlimited,Tourism
+26.0,Male,Berlin,Middle,Backend Developer,6,Java,78000.0,12000.0,,,,,28.0,5.0,English,AWS,1000+,Product,unlimited,Сommerce
+30.0,Male,Berlin,Middle,Data Scientist,2,Python,55000.0,5000.0,,52000.0,4000.0,,30.0,2.0,English,,1000+,Consulting / Agency,unlimited,
+Not mentioned,Male,Berlin,,Machine Learning Engineer,7,Python,90000.0,15000.0,,,,,30.0,,English,,100-1000,Startup,unlimited,Сommerce
+29.0,Male,Amsterdam,Senior,Backend Developer,4,Java,65000.0,,,,,,27.0,0.0,Russian,,100-1000,Product,unlimited,Finance / Insurance
+38.0,Male,Berlin,Senior,Backend Developer,7,Java,80000.0,,,70000.0,,,26.0,,English,,100-1000,Startup,unlimited,Transport
+31.0,Male,Berlin,Senior,Head of AI,5,Python,150000.0,,,,,,28.0,4.0,English,,1000+,Product,unlimited,
+35.0,Male,Hamburg,Middle,Manager,9,Python,105000.0,10000.0,1.0,100000.0,6000.0,1.0,37.0,3.0,Deutsch,asdf,1000+,Product,unlimited,Manufacture
+29.0,Male,Berlin,Senior,DevOps,8,Kubernetes,85000.0,,1.0,70000.0,1.0,1.0,30.0,5.0,English,,100-1000,Product,unlimited,Software Development
+38.0,Male,Cork,Senior,Software Architect,15,SQL,100000.0,25000.0,11000.0,78000.0,15000.0,10000.0,28.0,10.0,English,Dell,1000+,Product,unlimited,IT
+40.0,Female,Berlin,Senior,Backend Developer,18,Java,80000.0,4000.0,6000.0,70000.0,4000.0,0.0,27.0,4.0,English,OLX Group ,1000+,Product,unlimited,Сommerce
+26.0,Female,Berlin,Junior,Data Scientist,2,Python,47000.0,,,45000.0,,,26.0,0.0,English,,50-100,Startup,unlimited,Finance / Insurance
+27.0,Male,Munich,Middle,QA,3,Not Relevant,53600.0,,,,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+25.0,Male,Hamburg,Middle,Frontend Developer,4,Javascript / Typescript,66000.0,,,60000.0,,,30.0,20.0,English,,1000+,Product,unlimited,
+38.0,Female,Berlin,Senior,Data Scientist,3,Python,62000.0,,,,,,27.0,,English,,50-100,Startup,unlimited,Finance / Insurance
+32.0,Male,Berlin,Senior,Software Architect,4,Not Relevant,87000.0,15000.0,,81000.0,1500.0,,30.0,8.0,English,,1000+,Consulting / Agency,unlimited,Finance / Insurance
+Not mentioned,Male,Hamburg,Senior,Frontend Developer,20,Javascript / Typescript,95000.0,,1.0,,,,15.0,10.0,Russian,google,1000+,Product,unlimited,Сommerce
+34.0,Male,Hamburg,Middle,Backend Developer,10,Ruby,65000.0,,,60000.0,,,29.0,20.0,English,,50-100,Product,unlimited,Manufacture
+28.0,Male,Berlin,Middle,Data Engineer,2,Not Relevant,95000.0,19000.0,0.01,90000.0,18000.0,0.0,30.0,2.0,Deutsch,,1000+,Consulting / Agency,unlimited,Software Development
+Not mentioned,Male,Berlin,Senior,Machine Learning Engineer,7,Python,105000.0,15000.0,26000.0,,,,Not mentioned,,English,,1000+,Product,unlimited,
+33.0,Male,Berlin,Junior,Support,2,Not Relevant,36000.0,3000.0,,30000.0,,,25.0,0.0,Deutsch,,100-1000,Product,unlimited,Сonstruction
+31.0,Male,Munich,Senior,QA,8,Java,73000.0,,,,,,28.0,0.0,English,insparx,100-1000,Product,unlimited,Dating
+Not mentioned,Male,Zug,Senior,Backend Developer,12,Java,216000.0,47000.0,,,,,30.0,,Deutsch,,100-1000,Product,,Finance / Insurance
+30.0,Male,Berlin,Middle,Data Scientist,8,Python,90000.0,12000.0,12500.0,,,,27.0,1.0,English,OLX,100-1000,Product,unlimited,Сommerce
+35.0,Male,Berlin,Middle,Business Analyst,7,SQL,57000.0,,,46000.0,,,26.0,,English,Airhelp,100-1000,Startup,1 year,Finance / Insurance
+Not mentioned,Male,Amsterdam,Senior,Data Scientist,3,R,60000.0,2500.0,1.0,48000.0,1.0,1.0,24.0,4.0,Dutch,Capgemini,1000+,Consulting / Agency,unlimited,IT
+30.0,Male,Berlin,Senior,Data Scientist,4,SQL,66000.0,,,50000.0,,,25.0,4.0,English,,100-1000,Startup,unlimited,Transport
+26.0,Male,Frankfurt,Junior,Business Analyst,1,Not Relevant,44000.0,,,,,,28.0,,Deutsch,,1000+,Consulting / Agency,unlimited,Finance / Insurance
+Not mentioned,Male,Berlin,Senior,Backend Developer,15,PHP,58000.0,,0.1,58.0,,0.1,30.0,2.0,English,,100-1000,Product,unlimited,Media
+Not mentioned,Male,Berlin,Senior,Researcher,9,Python,112000.0,16000.0,25000.0,,,,Not mentioned,,English,,1000+,Product,,Сommerce
+23.0,Male,Cologne,Junior,Fullstack Developer,1,Java,30000.0,,,,,,Not mentioned,5.0,Deutsch,Zortify ,up to 10,Startup,1 year,HR
+26.0,Male,Amsterdam,Middle,Data Scientist,5,Python,85000.0,25000.0,30000.0,,,,Not mentioned,,English,,100-1000,Product,unlimited,
+44.0,Male,Hamburg,Senior,"CTO (CEO, CFO)",15,PHP,100000.0,,,,,,28.0,5.0,Deutsch,,100-1000,Product,unlimited,Scientific Activities
+30.0,Male,Frankfurt,Senior,Data Scientist,4,Python,80000.0,8000.0,,75000.0,,,30.0,5.0,English,AGT International ,50-100,Product,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Manager,15,Python,80000.0,,,,,,28.0,4.0,English,,100-1000,Startup,unlimited,SAS
+46.0,Male,Hamburg,Senior,Fullstack Developer,11,Java,60000.0,,,53000.0,,,30.0,,Deutsch,,10-50,Product,more than 1 year,Scientific Activities
+28.0,Male,Munich,Middle,Data Engineer,4,Python,60000.0,3000.0,,60000.0,3000.0,,30.0,,English,,10-50,Consulting / Agency,unlimited,Transport
+41.0,Male,Heidelberg,Senior,Data Scientist,10,Python,133000.0,,,127000.0,,,28.0,15.0,English,Konux,50-100,Startup,unlimited,Transport
+24.0,Male,Brussels,Junior,Data Scientist,2,Python,33000.0,,,,,,31.0,,French,,1000+,Consulting / Agency,unlimited,IT
+Not mentioned,Male,Munich,Senior,Manager,16,R,64000.0,20000.0,,,,,29.0,,English,Accenture,1000+,Consulting / Agency,more than 1 year,
+Not mentioned,Male,Munich,Senior,Manager,16,R,64000.0,20000.0,,,,,29.0,,English,Accenture,1000+,Consulting / Agency,more than 1 year,
+27.0,Male,Berlin,Senior,Business Analyst,5,Python,62000.0,,,55000.0,,,26.0,4.0,English,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+39.0,Male,Berlin,Senior,Data Scientist,5,Not Relevant,85000.0,,,,,,Not mentioned,,Deutsch,,,,6 months,Manufacture
+31.0,Male,Berlin,Middle,Product Manager,5,Not Relevant,55000.0,1.0,1.0,45000.0,1.0,1.0,24.0,4.0,Deutsch,,50-100,Product,more than 1 year,Education
+40.0,Female,Berlin,Senior,Backend Developer,10,C/C++,68000.0,,,63000.0,,,25.0,4.0,English,,10-50,Startup,unlimited,Health
+35.0,Male,Berlin,Senior,Software Architect,8,Java,85000.0,10000.0,20000.0,80000.0,10000.0,20000.0,28.0,5.0,English,eBay,1000+,Product,unlimited,Сommerce
+36.0,Male,Bielefeld,Senior,Fullstack Developer,16,PHP,72000.0,,,72000.0,,,24.0,4.0,English,Egoditor,10-50,Product,unlimited,Software Development
+30.0,Female,Berlin,Junior,QA,1,,34000.0,2000.0,,,,,30.0,,English,,10-50,Startup,unlimited,Finance / Insurance
+27.0,Male,Berlin,Senior,Backend Developer,8,Go,70000.0,5000.0,,70000.0,5000.0,,30.0,4.0,English,,1000+,Product,more than 1 year,Transport
+30.0,Male,Berlin,Senior,DevOps,8,Java,63600.0,7000.0,,60000.0,,,32.0,4.0,English,maps and navigation,1000+,Product,unlimited,Transport
+30.0,Male,Berlin,Senior,Backend Developer,9,Java,79000.0,0.0,,79000.0,,,27.0,4.0,English,,100-1000,Startup,unlimited,Tourism
+Not mentioned,Female,Berlin,Senior,Fullstack Developer,10,Java,68000.0,1500.0,,,,,30.0,2.0,Deutsch,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+34.0,Male,Berlin,Senior,Backend Developer,6,Python,60000.0,,,52000.0,,,Not mentioned,,Deutsch,,50-100,Product,unlimited,
+40.0,Female,Munich,Middle,Backend Developer,15,C/C++,68000.0,,,,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+40.0,Female,Munich,Middle,Backend Developer,15,C/C++,68000.0,,,,,,Not mentioned,,English,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Berlin,Senior,Backend Developer,11,Ruby,91000.0,,18000.0,85000.0,,,29.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+35.0,Male,Berlin,Senior,Backend Developer,12,PHP,90000.0,0.0,,,,,24.0,3.0,English,,up to 10,Startup,unlimited,Сommerce
+Not mentioned,Female,Berlin,Senior,QA,13,Java,63000.0,6000.0,,53000.0,,,30.0,4.0,English,,10-50,Startup,unlimited,Scientific Activities
+34.0,Female,Berlin,Middle,Data Scientist,2,Python,65000.0,,,51000.0,,,30.0,4.0,English,,1000+,Consulting / Agency,unlimited,
+42.0,Male,Berlin,Senior,Software Architect,20,C/C++,95000.0,10.0,,90000.0,,,30.0,,English,,1000+,Product,unlimited,Transport
+30.0,Female,Berlin,Middle,Data Scientist,5,Python,65000.0,0.0,,54000.0,,0.0,30.0,5.0,English,,1000+,Product,more than 1 year,Real Estate
+30.0,Male,Berlin,Senior,Backend Developer,10,Python,75000.0,,,66000.0,,,27.0,,English,,100-1000,Startup,more than 1 year,
+30.0,Male,Berlin,Senior,Fullstack Developer,6,Javascript / Typescript,70000.0,0.0,28000.0,58000.0,,,23.0,8.0,English,,10-50,Product,unlimited,Real Estate
+32.0,Female,Berlin,Middle,Mobile Developer,7,Kotlin,55000.0,,,52000.0,,,23.0,4.0,English,,1000+,Product,unlimited,Сommerce
+29.0,Female,Berlin,Middle,Data Scientist,2,Python,40000.0,0.0,,40000.0,,,29.0,,English,diconium,100-1000,,unlimited,IT
+Not mentioned,Male,Berlin,Senior,Data Scientist,6,Python,96000.0,12000.0,,,,,30.0,,English,,100-1000,Startup,unlimited,
+29.0,Male,Berlin,Senior,Fullstack Developer,8,Javascript / Typescript,72000.0,6000.0,,70000.0,5000.0,,30.0,4.0,English,Yara Digital,1000+,Startup,unlimited,Agriculture
+29.0,Male,Berlin,Middle,Backend Developer,7,Go,60000.0,,,,,,Not mentioned,,English,,100-1000,Product,unlimited,
+24.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,63000.0,3000.0,,,,,25.0,,English,smava,100-1000,Product,unlimited,Finance / Insurance
+37.0,Male,Berlin,Senior,Data Scientist,15,Not Relevant,85000.0,0.0,,,,,25.0,,English,,10-50,Startup,unlimited,Health
+26.0,Male,Frankfurt,Middle,Frontend Developer,6,Javascript / Typescript,76000.0,5000.0,,65000.0,3000.0,,30.0,2.0,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+37.0,Male,Dublin,Senior,Manager,15,Not Relevant,98000.0,15000.0,,130000.0,150000.0,,26.0,20.0,English,Optum,1000+,Product,unlimited,Finance / Insurance
+36.0,Male,Berlin,Senior,Backend Developer,10,Java,62000.0,,,55000.0,,,30.0,10.0,Deutsch,,1000+,Product,unlimited,Finance / Insurance
+33.0,Male,Berlin,Senior,Data Engineer,3,Python,63000.0,,,,,,30.0,,English,,,Product,unlimited,
+30.0,Male,Berlin,Senior,Software Architect,10,AWS,73000.0,20000.0,2000.0,66000.0,,10000.0,28.0,20.0,English,,1000+,Product,unlimited,Cloud
+35.0,Female,Berlin,Junior,Frontend Developer,2,Javascript / Typescript,50000.0,,,40000.0,,,26.0,2.0,English,relayr,100-1000,Startup,unlimited,IoT
+23.0,Male,Jyvaskyla,Middle,Backend Developer,2,Python,36000.0,,,24000.0,,,30.0,20.0,English,,100-1000,Product,unlimited,Сommerce
+28.0,Male,Berlin,Senior,Backend Developer,7,Java,80000.0,5000.0,,66000.0,3000.0,,30.0,1.0,English,Akelius,100-1000,Product,unlimited,Real Estate
+31.0,Male,Berlin,Senior,Business Analyst,8,SQL,91000.0,10000.0,10000.0,84000.0,9000.0,10000.0,28.0,0.0,English,,1000+,Product,unlimited,Сommerce
+28.0,Male,Berlin,Senior,DevOps,6,AWS,70000.0,,10000.0,,,,28.0,,English,,50-100,Product,unlimited,Finance / Insurance
+27.0,Male,Berlin,Senior,Data Engineer,5,Python,77000.0,11000.0,6000.0,70000.0,6000.0,0.0,28.0,2.0,English,,1000+,Product,unlimited,Сommerce
+Not mentioned,Male,Toulouse,Middle,Data Scientist,3,Python,56000.0,3000.0,,55000.0,3000.0,,35.0,8.0,French,,100-1000,Product,unlimited,Manufacture
+32.0,Male,Stuttgart,Senior,Frontend Developer,12,Javascript / Typescript,69000.0,5000.0,,55000.0,,,30.0,5.0,Deutsch,Daimler,1000+,Product,unlimited,Transport
+35.0,Male,Berlin,Senior,Fullstack Developer,15,PHP,35000.0,0.0,,,,,20.0,0.0,English,,1000+,Product,unlimited,Сommerce
+25.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,60000.0,,,,,,25.0,1.0,English,,100-1000,Product,unlimited,Finance / Insurance
+35.0,Male,Berlin,Senior,Data Engineer,15,Python,75000.0,,,,,,28.0,8.0,English,Hellofresh,100-1000,Product,unlimited,Сommerce
+34.0,Female,Munich,Senior,Business Analyst,9,Python,75000.0,0.0,1.0,55000.0,5000.0,0.0,24.0,5.0,English,Pinaccle,50-100,Startup,unlimited,Real Estate
+29.0,Female,Berlin,Middle,Data Scientist,3,Python,57000.0,0.0,,55000.0,,360.0,30.0,8.0,Deutsch,Europace AG,100-1000,Product,unlimited,Finance / Insurance
+34.0,Male,Frankfurt,Middle,Data Scientist,3,Python,50000.0,0.0,1.0,50000.0,1.0,1.0,28.0,5.0,English,,1000+,Product,unlimited,Telecom
+35.0,Female,Berlin,Senior,Data Scientist,5,Python,71000.0,,,68000.0,,,26.0,1.0,English,Bayes Esports Solutions,10-50,Startup,unlimited,Gaming
+34.0,Male,Berlin,Senior,Manager,10,Not Relevant,66000.0,,,,,,30.0,,English,,1000+,Bodyshop / Outsource,unlimited,
+39.0,Male,Berlin,Senior,Data Engineer,3,SQL,63000.0,0.0,,56000.0,,0.0,26.0,0.0,English,,100-1000,Startup,unlimited,IT
+Not mentioned,Female,Berlin,Senior,QA,11,Not Relevant,72500.0,,,,,,28.0,,English,,100-1000,Consulting / Agency,unlimited,
+39.0,Male,Dubai,Senior,Researcher,18,Python,120000.0,0.0,0.1,120000.0,,,20.0,8.0,English,noon,1000+,Startup,more than 1 year,Сommerce
+34.0,Male,Berlin,Senior,Data Scientist,4,R,67000.0,10000.0,,67000.0,10000.0,,27.0,4.0,English,,100-1000,Product,unlimited,Finance / Insurance
+27.0,Male,Munich,Senior,Data Scientist,7,Python,90000.0,,,75000.0,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+30.0,Male,Munich,Senior,Backend Developer,10,PHP,80000.0,,,,,,31.0,,English,,1000+,Product,unlimited,Transport
+32.0,Female,Munich,Middle,Fullstack Developer,5,Python,70000.0,0.0,,58000.0,4000.0,,25.0,4.0,English,Fineway,50-100,Startup,unlimited,Tourism
+35.0,Male,Berlin,Senior,Mobile Developer,8,Kotlin,65000.0,5000.0,,56000.0,,,24.0,1.0,Deutsch,,50-100,Product,unlimited,IT
+29.0,Male,Frankfurt,Senior,Data Scientist,1,R,61800.0,7200.0,,60000.0,5200.0,,28.0,,Deutsch,Deloitte ,1000+,Consulting / Agency,unlimited,Finance / Insurance
+34.0,Male,Berlin,Middle,Frontend Developer,3,Javascript / Typescript,50000.0,,,,,,27.0,0.0,English,Chal-Tec,100-1000,Product,more than 1 year,Сommerce
+27.0,Male,Berlin,Middle,QA,4,Not Relevant,58000.0,,,,,,30.0,4.0,English,1&1 IONOS,100-1000,Product,unlimited,Cloud
+27.0,Male,Berlin,Middle,Frontend Developer,5,Javascript / Typescript,60000.0,5000.0,,48000.0,,,30.0,8.0,Deutsch,th group,100-1000,Product,unlimited,Сonstruction
+34.0,Male,Hamburg,Senior,Data Scientist,9,Kotlin,100000.0,5000.0,,,,,24.0,,English,Jimdo.com ,100-1000,Consulting / Agency,unlimited,Сommerce
+33.0,Male,Berlin,Senior,Frontend Developer,11,Javascript / Typescript,70000.0,0.0,1.0,70000.0,1.0,0.0,25.0,5.0,English,,10-50,Startup,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Data Scientist,8,Python,105000.0,12000.0,26000.0,,,,27.0,,English,,1000+,Product,unlimited,
+45.0,Female,Berlin,Senior,QA,15,Java,65000.0,6500.0,,47000.0,1.0,0.0,30.0,7.0,English,Datenschutz ,100-1000,Startup,unlimited,Finance / Insurance
+35.0,Male,Munich,Senior,Database Developer (DBA),14,,68000.0,0.0,,,,,30.0,,English,,100-1000,Consulting / Agency,unlimited,IT
+33.0,Female,Berlin,Middle,Data Scientist,1,Python,50000.0,,,45000.0,,,30.0,4.0,English,,100-1000,Startup,unlimited,Education
+32.0,Female,Berlin,Senior,QA,8,Python,42000.0,,,,,,26.0,3.0,English,-,100-1000,Product,unlimited,Сommerce
+25.0,Male,Moscow,Middle,Frontend Developer,3,Javascript / Typescript,24000.0,5300.0,1.0,17000.0,1.0,0.0,40.0,1.0,Russian,Yandex,1000+,Product,unlimited,SEO
+27.0,Female,Düsseldorf,Junior,Data Scientist,1,Python,60000.0,,,,,,30.0,20.0,English,,1000+,Product,unlimited,Сommerce
+36.0,Male,Hamburg,Lead,Machine Learning Engineer,5,Python,85000.0,10000.0,,75000.0,5000.0,,30.0,5.0,Deutsch,,10-50,Consulting / Agency,unlimited,IT
+33.0,Male,Berlin,Senior,Head of Engineering,16,Not Relevant,115000.0,,25000.0,95000.0,,10000.0,28.0,4.0,English,,100-1000,Product,unlimited,Сommerce
+42.0,Male,Munich,Middle,DevOps,7,AWS,63000.0,5000.0,,,,,30.0,6.0,English,,100-1000,Product,unlimited,Tourism
+32.0,Male,Berlin,Middle,Backend Developer,2,Java,53900.0,0.0,,49000.0,,0.0,28.0,4.0,English,Zalando,1000+,Product,unlimited,Сommerce
+37.0,Male,Munich,Senior,Backend Developer,14,C/C++,72000.0,3000.0,,,,,27.0,2.0,English,,100-1000,Product,unlimited,Finance / Insurance
+32.0,Male,Berlin,Senior,Backend Developer,10,Java,110000.0,,,,,,Not mentioned,,Deutsch,,100-1000,Consulting / Agency,6 months,Transport
+42.0,Male,Frankfurt,Senior,Manager,18,Not Relevant,83000.0,5500.0,,75000.0,5000.0,,30.0,4.0,Deutsch,Finance Consulting,1000+,Consulting / Agency,unlimited,Finance / Insurance
+37.0,Male,Hamburg,Senior,Backend Developer,12,Java,72000.0,0.0,,65000.0,,0.0,29.0,20.0,English,Smaato,100-1000,Product,unlimited,Сommerce
+34.0,Male,Munich,Senior,Backend Developer,12,Java,73000.0,,,,,,30.0,,English,1&1,1000+,Product,unlimited,IT
+Not mentioned,Male,Munich,Principal,Backend Developer,11,Java,115000.0,26000.0,65000.0,,,,28.0,,English,,1000+,Product,,
+Not mentioned,Female,Stuttgart,Senior,SAP Consultant,7,Not Relevant,96000.0,12000.0,,,,,Not mentioned,,Deutsch,,100-1000,Product,,Manufacture
+32.0,Male,Berlin,Senior,Backend Developer,12,Ruby,75000.0,5500.0,,65000.0,2000.0,,25.0,4.0,English,,100-1000,Product,unlimited,Advertising
+33.0,Male,Zurich,Senior,Backend Developer,6,Java,110000.0,10000.0,,,,,20.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,Сommerce
+27.0,Male,Berlin,Senior,Backend Developer,6,Java,70000.0,,,,,,30.0,,English,,100-1000,Product,unlimited,Real Estate
+48.0,Male,Berlin,,System Administrator,18,Powershell,55000.0,,,55000.0,,,28.0,1.0,English,,100-1000,Product,unlimited,
+28.0,Female,Berlin,Junior,Data Scientist,1,R,50000.0,,,,,,30.0,,Deutsch,,10-50,Consulting / Agency,unlimited,Agriculture
+32.0,Male,Berlin,Lead,Software Engineer,10,Not Relevant,83000.0,,,75000.0,,,28.0,,English,,1000+,Product,unlimited,Transport
+26.0,Male,Munich,Middle,Backend Developer,3,Java,56000.0,,,53000.0,,,Not mentioned,,English,,,Product,unlimited,
+33.0,Female,Hamburg,Senior,QA,12,Not Relevant,65000.0,5500.0,,61000.0,,,30.0,8.0,English,,100-1000,Product,unlimited,Transport
+31.0,Female,Berlin,Middle,Data Scientist,2,Python,62000.0,,8000.0,55000.0,,,31.0,20.0,English,,100-1000,Startup,more than 1 year,Agriculture
+30.0,Male,Berlin,Senior,Fullstack Developer,8,Java,60000.0,0.0,,55000.0,,,27.0,20.0,English,Online dating,100-1000,Product,unlimited,Dating
+35.0,Male,Berlin,Senior,Tech Lead,16,AWS,107000.0,,,97000.0,,,30.0,5.0,English,,100-1000,Product,unlimited,IT
+32.0,Male,Berlin,Senior,Mobile Developer,10,Kotlin,78000.0,,,70000.0,,,30.0,,English,,50-100,Consulting / Agency,unlimited,Transport
+38.0,Male,Berlin,Senior,Software Architect,16,Javascript / Typescript,75000.0,,,54000.0,,,24.0,0.0,English,Hoeffner ,1000+,Product,unlimited,Сommerce
+28.0,Male,Berlin,Senior,Backend Developer,4,Go,75000.0,1.0,1.0,55000.0,1.0,1.0,30.0,4.0,English,Video Entertainment,100-1000,Product,unlimited,Entertainment
+Not mentioned,Male,Munich,Senior,Manager,19,Not Relevant,96000.0,11000.0,10000.0,94000.0,11000.0,10000.0,31.0,5.0,English,Intel,1000+,Product,unlimited,Manufacture
+34.0,Male,Lingen,Senior,Mobile Developer,8,Kotlin,65000.0,0.0,,65000.0,,,24.0,20.0,Deutsch,d.velop,100-1000,Product,unlimited,Finance / Insurance
+31.0,Male,Berlin,Senior,Fullstack Developer,9,Javascript / Typescript,65000.0,,,60000.0,,,26.0,4.0,English,Customer Alliance,50-100,Product,more than 1 year,Tourism
+30.0,Male,Munich,Senior,QA,9,Java,68000.0,8000.0,3000.0,62000.0,7000.0,3000.0,30.0,20.0,English,,1000+,Product,unlimited,IT
+Not mentioned,Male,Frankfurt,Senior,Data Scientist,8,R,106000.0,43000.0,,98000.0,35000.0,,25.0,,Deutsch,,100-1000,Product,,Finance / Insurance
+Not mentioned,Male,Warsaw,Senior,Frontend Developer,8,Javascript / Typescript,70000.0,5000.0,,,,,Not mentioned,,Russian,Compatibl,100-1000,,,Finance / Insurance
+33.0,Male,Berlin,Senior,QA,14,Python,52000.0,,,,,,24.0,4.0,English,,1000+,Product,unlimited,Сommerce
+37.0,Male,Berlin,Senior,Data Engineer,13,Python,68000.0,,,,,,27.0,,English,,50-100,Product,unlimited,Software Development
+Not mentioned,Male,Berlin,Senior,Machine Learning Engineer,6,Python,102000.0,15000.0,,,,,30.0,,Deutsch,,1000+,Product,unlimited,
+Not mentioned,Male,Hamburg,Senior,Mobile Developer,10,.NET,80000.0,45000.0,,,,,25.0,,English,,100-1000,Startup,unlimited,Gaming
+Not mentioned,Female,Berlin,Senior,Manager,7,Not Relevant,90000.0,9000.0,28000.0,,,,28.0,,English,,1000+,Product,,Сommerce
+Not mentioned,Male,Amsterdam,Lead,Data Scientist,11,Python,128000.0,25000.0,140000.0,,,,30.0,,English,,1000+,,,
+28.0,Male,Munich,Senior,Fullstack Developer,3,Not Relevant,63000.0,,,53000.0,,,30.0,,English,,1000+,Product,unlimited,Health
+28.0,Male,Berlin,Lead,Frontend Developer,8,Javascript / Typescript,82000.0,0.0,,65000.0,,,30.0,4.0,English,,100-1000,Product,unlimited,Transport
+26.0,Male,Munich,Middle,Fullstack Developer,5,Javascript / Typescript,50000.0,4000.0,,,,,25.0,,English,,1000+,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Senior,Software Architect,9,Java,120000.0,30000.0,50000.0,,,,30.0,,English,,1000+,,,
+39.0,Male,Berlin,Middle,Backend Developer,9,Java,64800.0,5000.0,,,,,25.0,0.0,English,,100-1000,Consulting / Agency,unlimited,Сommerce
+28.0,Female,Berlin,Senior,Backend Developer,6,Ruby,55000.0,,,,,,28.0,5.0,English,,10-50,Product,unlimited,Finance / Insurance
+48.0,Male,Berlin,Senior,Backend Developer,15,Java,65000.0,,,64000.0,,,29.0,8.0,Deutsch,,100-1000,Bodyshop / Outsource,unlimited,IT
+35.0,Male,Berlin,Middle,Manager,7,R,100000.0,5000.0,,,,,Not mentioned,,English,,100-1000,Product,unlimited,
+Not mentioned,Male,Munich,,Embedded Developer,8,C/C++,110000.0,25000.0,,,,,32.0,,Deutsch,,1000+,,,Manufacture
+Not mentioned,Male,Munich,Lead,Machine Learning Engineer,9,Python,110000.0,25000.0,35000.0,,,,30.0,,Deutsch,,100-1000,Startup,,Scientific Activities
+30.0,Female,Berlin,Middle,Software Engineer,7,AWS,66000.0,,,61000.0,,,30.0,4.0,English,,1000+,Product,unlimited,Real Estate
+38.0,Male,Dresden,Senior,Embedded Developer,8,C/C++,55000.0,3000.0,,54000.0,,,Not mentioned,,Deutsch,,100-1000,Product,unlimited,Manufacture
+27.0,Male,Berlin,Senior,Data Scientist,5,Python,125000.0,0.0,1.0,110000.0,1.0,1.0,20.0,20.0,Russian,Terra,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+27.0,Female,Berlin,Middle,Cloud Platform Engineer,6,AWS,70000.0,,,54000.0,,,32.0,4.0,English,Scout24 ,1000+,Product,unlimited,Сommerce
+37.0,Male,Lugano,Middle,Fullstack Developer,3,.NET,84000.0,0.0,84000.0,84000.0,1000.0,,Not mentioned,,Italian,,10-50,Product,unlimited,Manufacture
+30.0,Male,Berlin,Middle,Fullstack Developer,2,Java,51072.0,2300.0,,,,,30.0,4.0,Deutsch,,100-1000,Consulting / Agency,unlimited,
+Not mentioned,Male,Berlin,Senior,Backend Developer,8,Python,80000.0,8000.0,14000.0,,,,30.0,,English,,1000+,Product,,Transport
+32.0,Male,Berlin,Head,Data Scientist,10,Python,130000.0,35000.0,80000.0,,,,30.0,,English,,50-100,Startup,,Сommerce
+35.0,Male,Frankfurt,Senior,Backend Developer,16,C/C++,110000.0,55000.0,,103000.0,45000.0,,29.0,,English,,100-1000,Product,,Finance / Insurance
+34.0,Male,Berlin,Senior,Backend Developer,14,Rust,86000.0,7500.0,,81000.0,7500.0,,25.0,,English,,50-100,Startup,1 year,Сommerce
+27.0,Male,Berlin,Head,"CTO (CEO, CFO)",6,Python,24000.0,,750000.0,24000.0,,520000.0,4.0,,English,,10-50,Startup,unlimited,
+38.0,Female,Stuttgart,Senior,Embedded Developer,14,C/C++,82000.0,5000.0,,79000.0,5000.0,,32.0,4.0,Deutsch,,100-1000,Product,unlimited,Manufacture
+41.0,Male,Berlin,Senior,Crypto Developer,20,Solidity,140000.0,,,115000.0,,,20.0,,English,Cryptocurrencies,up to 10,Consulting / Agency,unlimited,Finance / Insurance
+32.0,Female,Berlin,Senior,Backend Developer,13,PHP,64000.0,,,63000.0,,,27.0,,English,,100-1000,Startup,unlimited,
+29.0,Male,Munich,Senior,Embedded Developer,4,ASM,74000.0,10000.0,,63000.0,,,30.0,10.0,English,Consumer,100-1000,Product,unlimited,Software Development
+31.0,Female,Berlin,Middle,Data Scientist,1,Python,59000.0,19000.0,,56000.0,8000.0,,30.0,,English,,100-1000,Consulting / Agency,unlimited,Transport
+37.0,Male,Cologne,Middle,QA,4,Not Relevant,53000.0,,,53000.0,,,30.0,0.0,Deutsch,,10-50,Consulting / Agency,unlimited,Software Development
+32.0,Male,Berlin,Senior,Data Scientist,10,Python,103000.0,15000.0,24000.0,96000.0,20000.0,,25.0,,English,,1000+,Product,unlimited,Сommerce
+27.0,Male,Berlin,Senior,Frontend Developer,7,Javascript / Typescript,75000.0,,,75000.0,,,25.0,,English,,10-50,Product,unlimited,Tourism
+25.0,Male,Berlin,Senior,Backend Developer,8,Rust,110000.0,5000.0,25000.0,80000.0,5000.0,,35.0,6.0,English,Airbnb,1000+,Product,unlimited,Tourism
+34.0,Male,Berlin,Middle,Product Manager,6,Not Relevant,65000.0,0.0,,,,,27.0,5.0,English,Zalando,1000+,Product,unlimited,Сommerce
+30.0,Male,Berlin,Senior,Manager,9,.NET,85000.0,3200.0,,74000.0,,,100.0,0.0,English,,1000+,Product,unlimited,Сommerce
+Not mentioned,Male,Frankfurt,Middle,Data Scientist,7,R,67000.0,8000.0,,64500.0,7700.0,,30.0,2.0,Deutsch,Deutsche Bahn,1000+,Product,unlimited,Transport
+32.0,Female,Berlin,Junior,Data Scientist,1,Python,45600.0,0.0,,,,,25.0,0.0,Deutsch,Stackfuel,10-50,Startup,1 year,Education
+30.0,Female,Berlin,Middle,Cloud Platform Engineer,7,AWS,66340.0,0.0,,61100.0,,,30.0,4.0,English,Scout24,1000+,Product,unlimited,Сommerce
+24.0,Male,Moscow,Middle,Machine Learning Engineer,2,Python,30000.0,,,19600.0,,,28.0,4.0,Russian,Multimedia ,100-1000,Product,unlimited,Entertainment
+28.0,Male,Berlin,Senior,Data Scientist,5,Python,95000.0,10000.0,,,,,30.0,,Deutsch,,100-1000,Product,unlimited,Сommerce
+32.0,Male,Frankfurt,Middle,Data Engineer,10,Not Relevant,68000.0,6800.0,,65000.0,6500.0,,30.0,,English,,50-100,Startup,unlimited,Transport
+38.0,Male,Frankfurt,Senior,Software Architect,15,Java,77000.0,9000.0,2000.0,77000.0,9000.0,2000.0,25.0,5.0,Deutsch,,1000+,Product,unlimited,Tourism
+Not mentioned,Female,Berlin,Middle,Manager,6,Python,89000.0,8900.0,,85000.0,8500.0,,30.0,15.0,English,Database,1000+,Product,unlimited,Software Development
+29.0,Male,Berlin,Middle,Data Engineer,3,Python,48000.0,,,,,,26.0,4.0,English,,100-1000,Startup,unlimited,Finance / Insurance
+29.0,Female,Hamburg,Middle,Machine Learning Engineer,4,Python,60000.0,,,55000.0,,,28.0,6.0,English,Mobility services,100-1000,Product,unlimited,Transport
+33.0,Male,Cologne,Middle,Data Scientist,3,Python,50000.0,,,,,,25.0,,English,,10-50,Startup,more than 1 year,
+35.0,Male,Stuttgart,Senior,Backend Developer,6,PHP,60600.0,,,54000.0,,,30.0,4.0,English,Internetstores GmbH,100-1000,Product,unlimited,Сommerce
+32.0,Male,Berlin,Lead,Data Scientist,9,Python,107000.0,12000.0,28000.0,,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+33.0,Male,Munich,Senior,Backend Developer,12,Java,120000.0,12000.0,40000.0,115000.0,11000.0,,30.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,
+35.0,Male,Berlin,Senior,Backend Developer,10,Java,84000.0,0.0,1.0,84000.0,1.0,0.0,28.0,4.0,English,xx,100-1000,Product,unlimited,Сommerce
+38.0,Male,Walldorf,Senior,Fullstack Developer,17,Javascript / Typescript,79000.0,8000.0,3000.0,,,,30.0,20.0,Deutsch,SAP,1000+,Product,unlimited,Software Development
+30.0,Male,Berlin,Senior,Backend Developer,7,Python,87000.0,10000.0,,80000.0,8000.0,,30.0,,English,,50-100,Startup,unlimited,
+34.0,Male,Munich,Lead,Fullstack Developer,8,Scala,90000.0,5000.0,,80000.0,,,30.0,5.0,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Berlin,Senior,Data Engineer,8,SQL,75000.0,5000.0,,,,,Not mentioned,,English,,100-1000,,unlimited,Сommerce
+31.0,Male,Berlin,Junior,Frontend Developer,3,Javascript / Typescript,48000.0,,,42000.0,,,20.0,4.0,Deutsch,,50-100,Consulting / Agency,unlimited,Scientific Activities
+36.0,Male,Berlin,Middle,QA,6,,50000.0,,,50000.0,,,30.0,3.0,Deutsch,,100-1000,Product,more than 1 year,
+31.0,Male,Berlin,Senior,DevOps,10,PHP,75000.0,,,,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+30.0,Male,Cologne,Middle,Data Scientist,5,R,73000.0,,,,,,30.0,4.0,English,,1000+,Product,unlimited,Сonstruction
+29.0,Male,Cologne,Middle,Manager,4,Not Relevant,52000.0,4000.0,,50000.0,3000.0,,30.0,,English,DHL ,1000+,,unlimited,Transport
+34.0,Female,Berlin,Junior,Software Architect,2,Java,45000.0,300.0,100.0,42000.0,300.0,100.0,30.0,2.0,Deutsch,,50-100,Product,more than 1 year,Scientific Activities
+31.0,Female,Berlin,Junior,Data Scientist,1,Python,45000.0,,,36000.0,,,28.0,0.0,English,Scorable,10-50,Startup,unlimited,Finance / Insurance
+33.0,Male,Berlin,Senior,Frontend Developer,8,Javascript / Typescript,70000.0,,,56000.0,,,24.0,,English,,10-50,Startup,unlimited,
+38.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,75000.0,,,75000.0,,,30.0,5.0,English,,1000+,Product,unlimited,Manufacture
+35.0,Male,Berlin,Senior,Fullstack Developer,16,Javascript / Typescript,95000.0,0.0,5000.0,80000.0,,,28.0,5.0,English,,100-1000,Product,unlimited,Finance / Insurance
+21.0,Male,Moscow,Middle,Data Scientist,4,Python,28300.0,,,7200.0,,,28.0,10.0,English,,100-1000,Consulting / Agency,1 year,Scientific Activities
+43.0,Male,Schleswig-Holstein,Senior,Backend Developer,25,.NET,93000.0,11000.0,,92000.0,11000.0,,30.0,0.0,Deutsch,,100-1000,Product,unlimited,Transport
+33.0,Male,Berlin,Middle,Data Scientist,3,Scala,77000.0,0.0,3000.0,70000.0,,3000.0,26.0,1.0,English,,100-1000,Startup,unlimited,Tourism
+30.0,Male,Berlin,Middle,Backend Developer,4,SAP / ABAP,51600.0,5180.0,,,,,30.0,,English,,10-50,Consulting / Agency,unlimited,Software Development
+35.0,Female,Braunschweig,Senior,Embedded Developer,5,C/C++,45000.0,300.0,,56000.0,300.0,,75.0,4.0,Deutsch,,100-1000,Bodyshop / Outsource,unlimited,Transport
+33.0,Male,Berlin,Middle,Product Manager,4,Not Relevant,65000.0,,,,,,27.0,0.0,English,,100-1000,Startup,unlimited,Transport
+28.0,Female,Hamburg,Junior,Data Scientist,1,R,50000.0,,,,,,27.0,,English,Adference,10-50,Startup,unlimited,Advertising
+41.0,Male,Munich,Senior,Machine Learning Engineer,12,C/C++,82000.0,20000.0,1.0,78000.0,19000.0,1.0,30.0,10.0,English,huawei,1000+,Product,unlimited,Telecom
+29.0,Male,Munich,Middle,Data Scientist,2,Python,63000.0,7000.0,,55000.0,,,27.0,2.0,Deutsch,Wirecard,1000+,Product,unlimited,Сommerce
+24.0,Male,Berlin,Middle,Fullstack Developer,3,Javascript / Typescript,56000.0,,,,,,24.0,,English,Fraugster,50-100,Product,unlimited,Finance / Insurance
+31.0,Male,Berlin,Lead,Backend Developer,10,Java,115000.0,15000.0,45000.0,107000.0,11000.0,37000.0,30.0,,English,,100-1000,Startup,unlimited,
+30.0,Male,Berlin,Senior,Backend Developer,8,Javascript / Typescript,65000.0,0.0,,,,,27.0,4.0,Deutsch,,10-50,Startup,unlimited,Transport
+34.0,Female,Berlin,Middle,Manager,3,Javascript / Typescript,57000.0,,,,,,Not mentioned,,English,,100-1000,Product,unlimited,Education
+29.0,Male,Berlin,Middle,Data Scientist,3,Python,51000.0,0.0,,51000.0,,,28.0,5.0,English,Mobimeo,50-100,Startup,unlimited,Transport
+35.0,Male,Berlin,Senior,Backend Developer,13,Java,75000.0,0.0,,75000.0,,0.0,30.0,0.0,English,Idealo Internet GmbH,100-1000,Product,unlimited,Сommerce
+22.0,Male,Amsterdam,Middle,Frontend Developer,5,Javascript / Typescript,82000.0,13500.0,20000.0,65000.0,,,27.0,4.0,English,,1000+,Product,unlimited,Transport
+35.0,Male,Amsterdam,Senior,Backend Developer,16,Java,77500.0,0.0,,75000.0,,,27.5,7.0,English,ING,1000+,Bank,unlimited,Finance / Insurance
+35.0,Male,Amsterdam,Senior,Data Engineer,10,Go,74400.0,0.0,,68000.0,,,25.0,,English,FindHotel,10-50,Product,unlimited,Tourism
+32.0,Male,Amsterdam,Middle,DevOps,2,AWS,70000.0,,,,,,26.0,10.0,English,,1000+,Bodyshop / Outsource,1 year,
+27.0,Male,Amsterdam,Middle,Backend Developer,5,.NET,58000.0,,,,,,30.0,,English,,100-1000,Product,unlimited,Transport
+32.0,Male,Amsterdam,Senior,Mobile Developer,11,Swift,65000.0,,,,,,25.0,0.0,English,,10-50,Startup,unlimited,Finance / Insurance
+43.0,Male,Kaiserslautern,Middle,Data Scientist,3,Python,62500.0,5000.0,1.0,56100.0,7000.0,1.0,30.0,0.0,English,TU Kaiserslautern,1000+,University,more than 1 year,Education
+33.0,Male,Amsterdam,Middle,Fullstack Developer,10,PHP,69000.0,,,65000.0,,,24.0,,English,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Amsterdam,Middle,Backend Developer,9,Java,81000.0,12150.0,,,,,26.0,,English,Booking.com,1000+,Product,unlimited,Сommerce
+35.0,Male,Amsterdam,Senior,QA,10,Not Relevant,65000.0,5000.0,,65000.0,5000.0,,40.0,4.0,English,,1000+,Product,,Scientific Activities
+31.0,Male,Berlin,Middle,Backend Developer,3,Java,48000.0,,,,,,24.0,0.0,English,AUTO1 Group,100-1000,Product,unlimited,Transport
+29.0,Male,Berlin,Middle,Backend Developer,7,Java,60000.0,0.0,,,,,24.0,0.0,English,Auto1,1000+,,unlimited,Сommerce
+23.0,Female,Amsterdam,Middle,Backend Developer,3,Python,60000.0,7000.0,,,,,25.0,,English,KPN,1000+,Product,1 year,Telecom
+33.0,Male,Munich,Senior,Fullstack Developer,12,PHP,54000.0,4500.0,,50000.0,500.0,,28.0,4.0,English,,up to 10,Startup,unlimited,Health
+30.0,Male,Amsterdam,Middle,Frontend Developer,10,Javascript / Typescript,87500.0,13500.0,90000.0,,,,28.0,7.0,English,,1000+,Product,unlimited,Transport
+33.0,Male,Eindhoven,Senior,Manager,8,Not Relevant,76000.0,22000.0,,,,,25.0,15.0,English,,1000+,Product,unlimited,Health
+38.0,Male,Düsseldorf,Middle,Data Scientist,3,Python,78000.0,7800.0,,48000.0,,,30.0,4.0,English,VGBS,1000+,Product,unlimited,Manufacture
+24.0,Male,Saint Petersburg,Middle,Fullstack Developer,4,.NET,30000.0,300.0,,30000.0,,0.0,28.0,3.0,Russian,Arcadia,100-1000,Bodyshop / Outsource,unlimited,Health
+28.0,Male,Amsterdam,Middle,DevOps,6,Python,62000.0,4000.0,,,,,28.0,5.0,English,,50-100,Startup,1 year,
+30.0,Male,Amsterdam,Senior,Fullstack Developer,8,.NET,80000.0,,,78000.0,,,25.0,,English,None,50-100,Product,unlimited,Health
+32.0,Male,Berlin,Junior,Data Scientist,2,R,48000.0,,1.0,,,,30.0,5.0,English,,50-100,Product,more than 1 year,Nature Conservation
+Not mentioned,Male,Eindhoven,Senior,Backend Developer,6,Python,53000.0,4000.0,,,,,28.0,2.0,English,,100-1000,Product,unlimited,Сommerce
+30.0,Male,Amsterdam,Senior,Backend Developer,9,Java,58500.0,4500.0,,,,,25.0,,English,,100-1000,Product,unlimited,Сommerce
+35.0,Female,Amsterdam,Senior,Backend Developer,13,.NET,64000.0,,,61500.0,,,22.5,8.0,English,Nielsen,1000+,Product,unlimited,Сommerce
+30.0,Female,Amsterdam,Middle,Backend Developer,7,Python,62000.0,,,62000.0,,,25.0,5.0,English,,10-50,Startup,unlimited,Catering
+29.0,Male,Amsterdam,Senior,Frontend Developer,8,Javascript / Typescript,70000.0,,,62000.0,,,30.0,4.0,English,,1000+,Product,unlimited,Transport
+35.0,Male,Amsterdam,Senior,Backend Developer,7,Python,72000.0,0.0,,,,,25.0,9.0,English,,50-100,Product,unlimited,IT
+30.0,Male,Berlin,Senior,Data Scientist,9,Python,105000.0,20000.0,,98000.0,16000.0,,28.0,,English,,1000+,Product,unlimited,Real Estate
+33.0,Male,Munich,Middle,Product Manager,5,Not Relevant,72000.0,,,,,,28.0,3.0,English,,100-1000,Startup,unlimited,
+35.0,Male,Eindhoven ,Senior,Frontend Developer,10,Javascript / Typescript,62000.0,0.0,,62000.0,,,28.0,,English,,1000+,Bodyshop / Outsource,unlimited,
+Not mentioned,Male,Leeuwarden,Senior,Backend Developer,6,Java,58000.0,,,50000.0,,,25.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+29.0,Male,Amsterdam,Senior,Backend Developer,11,Java,90000.0,10.0,,80000.0,10000.0,,25.0,0.0,English,,10-50,Product,unlimited,Finance / Insurance
+33.0,Male,Moscow,Senior,Mobile Developer,12,Kotlin,30000.0,0.0,,,,,28.0,,Russian,,10-50,Startup,unlimited,Сonstruction
+27.0,Male,Amsterdam,Middle,Backend Developer,4,Scala,78000.0,,,60000.0,,,25.0,,English,,100-1000,Product,unlimited,Gambling
+34.0,Male,Amsterdam,Senior,Fullstack Developer,12,.NET,75000.0,,,73000.0,,,20.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+37.0,Male,Eindhoven,Senior,Backend Developer,16,.NET,83400.0,4170.0,,62000.0,,,25.0,,English,IT&Care,1000+,Product,1 year,Health
+29.0,Male,Amsterdam,Senior,Backend Developer,9,.NET,67000.0,,,60000.0,1500.0,,30.0,0.0,English,,1000+,Product,1 year,Manufacture
+27.0,Male,Amsterdam,Middle,Backend Developer,5,.NET,65000.0,,,,,,Not mentioned,,English,,100-1000,Product,unlimited,Сommerce
+27.0,Male,Amsterdam,Middle,Backend Developer,4,Java,62000.0,2500.0,,,,,24.0,0.0,English,,100-1000,Product,1 year,Finance / Insurance
+22.0,Female,Amsterdam,Junior,DevOps,2,Azure,43000.0,,,,,,27.0,4.0,English,,1000+,,,
+33.0,Male,Berlin,Senior,Backend Developer,10,.NET,87000.0,,,,,,25.0,4.0,English,,10-50,Bodyshop / Outsource,unlimited,Сommerce
+Not mentioned,Male,Munich,Senior,Mobile Developer,5,Kotlin,70000.0,2000.0,,,,,28.0,4.0,English,,up to 10,Consulting / Agency,unlimited,Finance / Insurance
+31.0,Male,Berlin,Senior,SRE,10,Go,78000.0,4000.0,18000.0,,,,25.0,,English,,1000+,Product,unlimited,Сommerce
+27.0,Male,Stuttgart,Senior,Fullstack Developer,6,Javascript / Typescript,48000.0,0.0,,42000.0,,,28.0,,English,,up to 10,Product,unlimited,Сommerce
+32.0,Male,Hilversum,Senior,Fullstack Developer,10,Java,83000.0,,500.0,65000.0,,,25.0,4.0,English,XL,50-100,Product,unlimited,Software Development
+28.0,Male,Hamburg,Senior,Backend Developer,5,Cobol,67000.0,8000.0,,56000.0,1300.0,,30.0,4.0,Deutsch,,1000+,Product,unlimited,Finance / Insurance
+32.0,Male,Amsterdam,Middle,Backend Developer,12,Perl,82000.0,12000.0,20000.0,78000.0,10000.0,20000.0,29.0,0.0,English,Booking.com,1000+,Product,unlimited,Tourism
+32.0,Male,Munich,Lead,Machine Learning Engineer,12,C/C++,115000.0,25000.0,48000.0,,,,30.0,,English,,1000+,Product,unlimited,Scientific Activities
+49.0,Male,Munich,Senior,DevOps,25,Not Relevant,125000.0,,,,,,30.0,,Deutsch,,1000+,Product,3 months,
+30.0,Male,Berlin,Senior,Data Scientist,6,R,75000.0,0.0,5000.0,66000.0,,5000.0,27.0,3.0,English,Getyourguide,100-1000,Startup,more than 1 year,Tourism
+35.0,Male,Berlin,,Manager,11,Not Relevant,80000.0,,,75000.0,,,26.0,,English,,10-50,Product,more than 1 year,HR
+27.0,Female,Amsterdam,Senior,Manager,8,Not Relevant,87000.0,13000.0,,75000.0,8000.0,5.0,29.0,5.0,English,,1000+,Product,unlimited,Tourism
+33.0,Female,Hamburg,Middle,Data Scientist,5,SQL,58000.0,,,57000.0,1000.0,,28.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,Finance / Insurance
+27.0,Female,Berlin,Middle,Backend Developer,5,Java,50000.0,,,48000.0,,,30.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,Transport
+33.0,Male,Hamburg,Middle,Data Scientist,2,Python,70000.0,5000.0,,,,,30.0,0.0,Deutsch,,1000+,Product,unlimited,Сommerce
+32.0,Male,Munich,Senior,SRE,11,Java,69300.0,8500.0,,66000.0,8000.0,,28.0,5.0,Deutsch,,100-1000,Product,unlimited,Сommerce
+31.0,Male,Munich,Senior,Head of Engineering,11,Swift,75000.0,,,70000.0,,,22.0,5.0,English,,50-100,Startup,unlimited,Health
+28.0,Female,Warsaw,Senior,Fullstack Developer,5,R,155000.0,0.0,1.0,144000.0,1.0,0.0,32.0,20.0,Polish+English,,100-1000,Consulting / Agency,unlimited,Health
+36.0,Male,Berlin,Senior,Fullstack Developer,7,.NET,70000.0,,,,,,30.0,10.0,English,,50-100,Startup,unlimited,Transport
+32.0,Male,Frankfurt,Junior,Data Scientist,0,Python,55000.0,5500.0,,,,,30.0,4.0,English,zerog,50-100,Consulting / Agency,unlimited,Transport
+30.0,Male,Amsterdam,Middle,System Administrator,6,Not Relevant,70000.0,10000.0,,,,,26.0,,English,,1000+,Product,unlimited,Tourism
+28.0,Male,Gdańsk,Middle,Data Scientist,5,R,14000.0,0.0,,9000.0,,,25.0,20.0,English,,100-1000,Bodyshop / Outsource,unlimited,Сommerce
+26.0,Male,Amsterdam,Senior,DevOps,6,Not Relevant,68000.0,,,60000.0,,,24.0,,English,,1000+,Product,unlimited,Transport
+37.0,Male,Amsterdam,Middle,Fullstack Developer,18,Perl,82000.0,20000.0,25000.0,65000.0,15000.0,20000.0,29.0,0.0,English,,1000+,Product,unlimited,Tourism
+48.0,Male,Berlin,Senior,Network Engineer,16,Cisco,67000.0,,,,,,24.0,,English,,1000+,,unlimited,
+Not mentioned,Male,Munich,Senior,Manager,20,Java,90000.0,20000.0,,89000.0,15000.0,,32.0,0.0,English,,1000+,Product,unlimited,Telecom
+30.0,Male,Wroclaw,Middle,Manager,8,Not Relevant,53000.0,3000.0,,48500.0,,,26.0,15.0,English,,1000+,Bodyshop / Outsource,unlimited,Finance / Insurance
+24.0,Male,Amsterdam,Middle,Frontend Developer,4,Javascript / Typescript,72000.0,,,,,,26.0,,English,Booking.com,1000+,Product,unlimited,Tourism
+35.0,Male,Stuttgart,Senior,Manager,5,Python,72000.0,14000.0,,72000.0,12000.0,,30.0,4.0,English,,1000+,Bodyshop / Outsource,unlimited,IT
+35.0,Male,Amsterdam,Lead,DevOps,7,AWS,65000.0,,,,,,Not mentioned,,English,,1000+,Bodyshop / Outsource,unlimited,
+29.0,Male,Amsterdam,Senior,QA,8,Java,74000.0,6000.0,,60000.0,,,30.0,4.0,English,Ingenico,1000+,Product,1 year,Finance / Insurance
+34.0,Male,Amsterdam,Senior,Frontend Developer,10,Javascript / Typescript,60000.0,4500.0,,52800.0,4400.0,,25.0,1.0,English,,100-1000,Product,more than 1 year,HR
+34.0,Male,Berlin,Senior,Manager,2,Not Relevant,63600.0,,,66000.0,,,45.0,5.0,Deutsch,SysEleven GmbH,50-100,Product,unlimited,Сommerce
+24.0,Female,Warsaw,Junior,Modelling Specialist,1,R,72000.0,,,54000.0,1000.0,0.0,20.0,20.0,Polish,,1000+,Bank,unlimited,Finance / Insurance
+28.0,Male,Amsterdam,Senior,SAP Consultant,6,Not Relevant,80500.0,4000.0,,,,,30.0,5.0,English,,1000+,Consulting / Agency,1 year,IT
+31.0,Male,Munich,Lead,Machine Learning Engineer,9,Python,125000.0,28000.0,,115000.0,7000.0,15000.0,30.0,,Deutsch,,100-1000,Startup,unlimited,Transport
+34.0,Male,Zug,Senior,Backend Developer,12,C/C++,160000.0,0.0,1.0,,,,25.0,5.0,English,Trading,10-50,Product,unlimited,Finance / Insurance
+23.0,Female,Moscow,Middle,Data Engineer,4,Hadoop,32000.0,5000.0,,,30000.0,,28.0,,Russian,Yandex,1000+,Product,unlimited,
+32.0,Male,Düsseldorf,Senior,Data Engineer,7,Python,62000.0,5000.0,,62000.0,5000.0,,30.0,5.0,English,,1000+,Product,unlimited,Manufacture
+25.0,Female,Moscow,Senior,Frontend Developer,5,Javascript / Typescript,35300.0,0.0,,,,,28.0,4.0,Russian,,50-100,Product,unlimited,Finance / Insurance
+40.0,Male,Amsterdam,Middle,System Administrator,20,Not Relevant,78000.0,12000.0,15000.0,68000.0,25000.0,25000.0,28.0,0.0,English,FooBar,1000+,Product,unlimited,
+30.0,Male,Gothenburg,Senior,Backend Developer,8,Elixir,40146.0,,,,,,Not mentioned,,English,,10-50,Product,unlimited,Entertainment
+33.0,Male,Zurich,Senior,Backend Developer,6,PHP,90000.0,,,,,,Not mentioned,4.0,English,,50-100,Product,more than 1 year,
+31.0,Female,Amsterdam,Senior,QA,5,Javascript / Typescript,67000.0,,,54000.0,900.0,,26.0,4.0,English,DAZN,100-1000,Product,unlimited,Media
+30.0,Male,Amsterdam,Middle,Backend Developer,10,Java,80000.0,0.0,,72000.0,,,25.0,5.0,English,,50-100,Product,more than 1 year,Transport
+31.0,Male,Munich,Lead,Machine Learning Engineer,9,Python,125000.0,28000.0,,115000.0,7000.0,15000.0,30.0,,Deutsch,,100-1000,Startup,unlimited,Transport
+30.0,Female,Berlin,Senior,Business Analyst,6,Python,63000.0,,,57000.0,,,28.0,4.0,English,,1000+,Product,unlimited,Сommerce
+29.0,Male,Berlin,Senior,Data Scientist,7,Python,90000.0,9000.0,18000.0,,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+31.0,Male,Frankfurt,Middle,Backend Developer,7,Java,74200.0,,,70200.0,,,35.0,6.0,English,Elsevier Information Systems GmbH,1000+,Product,unlimited,Scientific Activities
+29.0,Male,Amsterdam,Senior,Backend Developer,8,Java,86000.0,0.0,,75000.0,11500.0,0.0,25.0,0.0,English,TomTom,1000+,Product,unlimited,IT
+30.0,Male,Munich,Senior,Cloud Platform Engineer,15,Google Cloud,117000.0,22000.0,38000.0,115000.0,10000.0,80000.0,30.0,8.0,English,,1000+,,unlimited,
+24.0,Female,Warsaw,Junior,RPA developer,1,Python,48000.0,,,,,,20.0,0.0,Polish,,1000+,Bank,6 months,Finance / Insurance
+37.0,Male,Almere,Senior,Tech Lead,10,C/C++,57600.0,4416.0,,,,,25.0,,English,,10-50,Product,unlimited,
+26.0,Male,Limassol,Senior,QA,7,Not Relevant,63600.0,,,50000.0,,,21.0,,Russian,,50-100,Product,more than 1 year,Finance / Insurance
+23.0,Male,Moscow,Middle,Backend Developer,3,Erlang,36819.0,0.0,,,,,28.0,5.0,Russian,RBKmoney,100-1000,Product,unlimited,Finance / Insurance
+30.0,Male,Vienna,Junior,Frontend Developer,2,Javascript / Typescript,21600.0,0.0,,25200.0,,,25.0,5.0,English,,up to 10,Startup,unlimited,HR
+34.0,Male,Berlin,Senior,Manager,2,Not Relevant,63600.0,,,66000.0,,,45.0,5.0,Deutsch,SysEleven GmbH,50-100,Product,unlimited,Сommerce
+35.0,Female,Hamburg,Middle,Data Scientist,3,Python,49000.0,0.0,,,,,30.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,
+33.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,78000.0,,,72000.0,,,30.0,,English,InstaMotion GmbH,50-100,Startup,unlimited,Сommerce
+Not mentioned,Female,Zurich,Middle,Machine Learning Engineer,8,Java,120000.0,,,,,,25.0,,English,,1000+,Product,more than 1 year,Сommerce
+29.0,Male,Stockholm,Senior,Backend Developer,6,C/C++,60000.0,7000.0,2000.0,,,,33.0,8.0,English,,1000+,Product,unlimited,Finance / Insurance
+23.0,Male,Tampere,Junior,Frontend Developer,1,Swift,36000.0,0.0,1.0,,,,40.0,10.0,English,,,,,
+39.0,Male,Amsterdam,Senior,Mobile Developer,16,Swift,65000.0,0.0,,64800.0,,,24.0,2.0,English,BUX,50-100,Product,unlimited,Finance / Insurance
+24.0,Female,Cologne,Junior,Data Scientist,1,Python,49000.0,,,,,,25.0,,English,,up to 10,Consulting / Agency,unlimited,
+30.0,Male,Munich,Senior,Backend Developer,9,Java,112000.0,14000.0,,105000.0,7000.0,,30.0,,Deutsch,,100-1000,Consulting / Agency,unlimited,Manufacture
+28.0,Male,Frankfurt,Senior,Data Scientist,6,R,87000.0,11000.0,,75000.0,5000.0,,25.0,,Deutsch,,100-1000,Startup,more than 1 year,Finance / Insurance
+35.0,Male,Berlin,Senior,Backend Developer,10,Javascript / Typescript,68000.0,10000.0,,66000.0,9000.0,,30.0,8.0,English,,100-1000,Product,unlimited,Transport
+32.0,Male,Munich,Middle,Frontend Developer,3,Javascript / Typescript,55000.0,,,,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+40.0,Male,Munich,Senior,Fullstack Developer,15,Java,160000.0,,,130000.0,,,20.0,14.0,Deutsch,,up to 10,Consulting / Agency,1 year,Manufacture
+38.0,Male,Berlin,Middle,DevOps,15,Python,52000.0,,,,50000.0,,29.0,4.0,English,Pinguin AG,100-1000,Product,unlimited,Telecom
+33.0,Male,Amsterdam,Senior,Manager,15,Not Relevant,80000.0,3000.0,2000.0,75000.0,5000.0,,27.0,5.0,English,,1000+,Consulting / Agency,unlimited,Software Development
+Not mentioned,Female,Bayern,Senior,DevOps,19,.NET,100000.0,,,92000.0,,,30.0,,Deutsch,,100-1000,Product,unlimited,Manufacture
+25.0,Male,Amsterdam,Junior,Backend Developer,2,Kotlin,52500.0,0.0,,50000.0,,,28.5,,English,Ing,1000+,Bank,unlimited,Finance / Insurance
+33.0,Male,Munich,Senior,Backend Developer,11,Java,68000.0,5000.0,,60000.0,4000.0,,28.0,4.0,English,Zooplus AG,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Munich,Senior,Software Architect,13,Java,112000.0,0.0,5000.0,112000.0,,,26.0,,Deutsch,,50-100,Startup,unlimited,Finance / Insurance
+40.0,Male,Munich,Junior,QA,3,Java,52000.0,0.0,1.0,1.0,1.0,1.0,30.0,,Deutsch,,100-1000,Consulting / Agency,1 year,IT
+35.0,Male,Munich,Senior,Software Architect,11,AWS,105000.0,30000.0,,77000.0,5000.0,0.0,28.0,20.0,English,AWS,1000+,Product,unlimited,IT
+41.0,Male,Munich,Senior,Backend Developer,20,Java,75000.0,3300.0,,75000.0,3000.0,,28.0,,English,,1000+,Product,unlimited,Finance / Insurance
+31.0,Male,Düsseldorf,Senior,Backend Developer,11,Python,82500.0,11400.0,,76300.0,10850.0,,30.0,20.0,English,,1000+,Product,unlimited,IT
+34.0,Female,Kyiv,Senior,Researcher,13,C/C++,38400.0,,,,,,27.0,,English,Institute for Nuclear Research,100-1000,University,unlimited,Education
+Not mentioned,Male,Amsterdam,Junior,Fullstack Developer,1,C/C++,39600.0,,,,,,25.0,0.0,English,,up to 10,Startup,more than 1 year,Finance / Insurance
+45.0,Female,Munich,Senior,Backend Developer,20,C/C++,200000.0,20000.0,0.1,200000.0,20000.0,0.1,26.0,20.0,Deutsch,,100-1000,Product,unlimited,Telecom
+37.0,Male,Berlin,Middle,Backend Developer,3,Ruby,54000.0,0.0,1.0,54000.0,1.0,0.0,28.0,2.0,English,,50-100,Startup,unlimited,Сommerce
+31.0,Male,Berlin,Senior,Data Scientist,8,Python,98000.0,17000.0,,90000.0,11000.0,,30.0,,English,,1000+,Product,unlimited,Сommerce
+33.0,Male,Munich,Senior,Backend Developer,8,Java,68000.0,7000.0,,,,,30.0,5.0,English,,100-1000,Product,unlimited,Сommerce
+34.0,Male,Munich,Senior,Manager,13,Java,125000.0,55000.0,,,118000.0,50000.0,32.0,,Deutsch,,100-1000,Product,unlimited,Manufacture
+42.0,Male,Munich,Senior,Fullstack Developer,20,.NET,63000.0,1000.0,,60000.0,3000.0,,30.0,0.0,Deutsch,MSO,up to 10,Product,unlimited,Сommerce
+25.0,Male,Berlin,Middle,Fullstack Developer,3,PHP,30000.0,0.0,,27500.0,,,27.0,2.0,Deutsch,StackFuel GmbH,10-50,Startup,unlimited,Education
+Not mentioned,Male,Berlin,Senior,Fullstack Developer,9,AWS,96000.0,,24000.0,,,,28.0,5.0,English,,1000+,Product,unlimited,
+35.0,Male,Munich,Middle,Platform Engineer,5,Not Relevant,60000.0,,3000.0,,,,27.0,4.0,English,,100-1000,Product,unlimited,Tourism
+30.0,Male,Frankfurt,Senior,Fullstack Developer,9,Python,95000.0,12000.0,,90000.0,12000.0,,27.0,,Deutsch,,100-1000,Product,unlimited,Finance / Insurance
+33.0,Male,Amsterdam,Senior,IT Security,13,Python,90000.0,,,85000.0,,,25.0,8.0,English,,50-100,Startup,unlimited,Security
+33.0,Female,Munich,Middle,Manager,5,Not Relevant,55000.0,,,50000.0,,,28.0,8.0,English,,50-100,Startup,unlimited,Сommerce
+26.0,Male,Berlin,Junior,UX Researcher,2,,48000.0,1.0,1.0,44000.0,1.0,1.0,21.0,4.0,English,FlixMobility GmbH,1000+,Product,unlimited,Transport
+32.0,Male,Berlin,Senior,Manager,10,Go,88000.0,,,88000.0,,,Not mentioned,,English,,100-1000,Product,unlimited,
+30.0,Male,Munich,Middle,Data Scientist,2,Python,68500.0,0.0,,60000.0,6500.0,,31.0,4.0,Deutsch,Telefónica,1000+,Product,unlimited,Telecom
+33.0,Male,Munich,Lead,Machine Learning Engineer,12,Python,115000.0,18000.0,30000.0,110000.0,25000.0,,30.0,,Deutsch,,100-1000,Startup,unlimited,Transport
+34.0,Male,Berlin,Senior,Cloud Platform Engineer,13,Azure,66000.0,6000.0,,,,,27.0,4.0,Deutsch,,1000+,Consulting / Agency,more than 1 year,IT
+52.0,Male,Cologne,Senior,Network Engineer,30,Cisco,60000.0,12000.0,20000.0,60000.0,12000.0,20000.0,30.0,5.0,Deutsch,,1000+,Consulting / Agency,unlimited,IT
+31.0,Male,Berlin,Senior,Data Engineer,10,Python,105000.0,20000.0,30000.0,,,,28.0,5.0,English,,1000+,Product,unlimited,Сommerce
+28.0,Male,Berlin,Senior,Backend Developer,7,C/C++,72000.0,6000.0,6000.0,,,,30.0,,English,HERE,1000+,Product,unlimited,Transport
+35.0,Male,Munich,Senior,Game Developer,11,Unity,65000.0,0.0,,60000.0,,,28.0,0.0,English,ICAROS GmbH,10-50,Startup,1 year,Health
+29.0,Male,Berlin,Senior,Fullstack Developer,4,Java,55000.0,6000.0,,,,,25.0,,English,,100-1000,Product,more than 1 year,Сommerce
+37.0,Male,Amsterdam,,SAP Consultant,13,Not Relevant,107000.0,14300.0,,,,,25.0,,English,,100-1000,,unlimited,
+34.0,Male,Frankfurt,Middle,Data Engineer,4,.NET,90000.0,30000.0,,,,,30.0,0.0,Deutsch,,10-50,Product,unlimited,Finance / Insurance
+45.0,Male,Munich,Senior,Backend Developer,19,PHP,73000.0,,,67000.0,1000.0,,30.0,,Deutsch,,100-1000,Product,unlimited,Health
+31.0,Female,Berlin,Senior,Backend Developer,5,Java,75000.0,0.0,,60000.0,,0.0,25.0,5.0,English,,100-1000,Product,unlimited,Сommerce
+32.0,Male,Frankfurt,Middle,Machine Learning Engineer,2,Python,68000.0,7000.0,1.0,60000.0,3000.0,0.0,32.0,4.0,Deutsch,,1000+,Consulting / Agency,unlimited,Finance / Insurance
+32.0,Male,Berlin,Senior,Fullstack Developer,10,Javascript / Typescript,75000.0,,,75000.0,,,25.0,,English,,10-50,Startup,unlimited,Finance / Insurance
+Not mentioned,Male,Munich,Senior,Fullstack Developer,9,Java,61000.0,4000.0,,57000.0,3000.0,0.0,28.0,5.0,Deutsch,iteratec,100-1000,Consulting / Agency,unlimited,IT
+29.0,Male,Rotterdam,Middle,Data Scientist,1,Python,42000.0,2500.0,,,,,25.0,10.0,English,,10-50,Consulting / Agency,1 year,
+41.0,Male,Berlin,Senior,Data Engineer,25,Python,72000.0,0.0,,72000.0,,0.0,26.0,20.0,English,,50-100,Startup,unlimited,Finance / Insurance
+36.0,Male,Antwerpen,Middle,Manager,15,Not Relevant,36000.0,0.0,,36000.0,,,20.0,4.0,English,,100-1000,Bodyshop / Outsource,unlimited,
+42.0,Male,Tallinn,Senior,Backend Developer,19,Java,58000.0,,35000.0,,,,25.0,,English,,100-1000,Product,unlimited,Сommerce
+41.0,Male,Amsterdam,Senior,Backend Developer,17,Java,75000.0,,,,,,25.0,,English,,100-1000,Startup,unlimited,Finance / Insurance
+33.0,Male,Berlin,Senior,Backend Developer,11,Go,75000.0,,7500.0,65000.0,,,25.5,4.0,English,,100-1000,Product,unlimited,Catering
+38.0,Male,Berlin,Senior,Mobile Developer,11,Kotlin,78000.0,9000.0,,75000.0,,,28.0,,English,,50-100,Startup,unlimited,Finance / Insurance
+33.0,Female,Munich,Junior,Data Scientist,3,Python,60000.0,0.0,,52000.0,4000.0,,30.0,4.0,Deutsch,Telefonica ,1000+,Product,unlimited,Telecom
+35.0,Male,Munich,Senior,Embedded Developer,13,C/C++,78000.0,13000.0,1.0,60000.0,1.0,1.0,30.0,10.0,English,,50-100,Consulting / Agency,unlimited,Transport
+30.0,Male,Berlin,Middle,Support,2,Python,55000.0,5000.0,,42000.0,,,24.0,5.0,English,,100-1000,Product,unlimited,Advertising
+41.0,Female,Munich,Senior,Manager,18,Not Relevant,109000.0,1200.0,350.0,90000.0,1.0,350.0,30.0,5.0,Deutsch,SIEMENS ,1000+,Product,unlimited,Finance / Insurance
+30.0,Male,Berlin,Senior,Backend Developer,10,PHP,78000.0,,,75000.0,,,28.0,,English,,100-1000,Product,unlimited,Сommerce
+33.0,Male,Munich,Senior,Software Engineer,15,Python,69000.0,7000.0,,,,,28.0,4.0,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Düsseldorf,Senior,SRE,7,Go,56000.0,,,56000.0,,,25.0,4.0,English,,1000+,Product,unlimited,Tourism
+27.0,Male,Berlin,Senior,Fullstack Developer,11,Not Relevant,78000.0,0.0,6000.0,76000.0,,6000.0,30.0,0.0,English,Pivotal Software Deutschland GmbH,1000+,Startup,unlimited,Software Development
+28.0,Male,Munich,Junior,Data Scientist,2,Python,52000.0,6000.0,,45000.0,4000.0,,30.0,1.0,Deutsch,Data Insights,10-50,Consulting / Agency,unlimited,IT
+28.0,Male,Berlin,Junior,Data Scientist,2,Python,75000.0,0.0,1000.0,,,,30.0,4.0,English,,10-50,Startup,1 year,Finance / Insurance
+28.0,Male,Amsterdam,Senior,QA,6,Javascript / Typescript,70000.0,,,,,,25.0,8.0,English,,100-1000,Product,unlimited,
+29.0,Male,Amsterdam,Middle,Backend Developer,9,AWS,70000.0,0.0,,,,,22.0,,English,DAZN,100-1000,Product,unlimited,
+22.0,Male,Kyiv,Junior,Data Scientist,1,Python,21600.0,,,,,,Not mentioned,,Ukrainian,,50-100,Product,unlimited,Сommerce
+26.0,Male,Munich,Middle,Backend Developer,6,Javascript / Typescript,62000.0,,,45000.0,,,30.0,,Deutsch,,50-100,Consulting / Agency,unlimited,Finance / Insurance
+40.0,Male,Munich,Senior,Software Architect,22,Java,95000.0,,,89000.0,,,30.0,6.0,Deutsch,,100-1000,Product,unlimited,Telecom
+34.0,Male,Munich,Senior,Backend Developer,15,PHP,86000.0,,,72000.0,8000.0,,30.0,10.0,English,Sixt,1000+,Product,unlimited,Transport
+25.0,Female,Berlin,Senior,Fullstack Developer,6,.NET,54000.0,0.0,,54000.0,,,27.0,25.0,English,,100-1000,Product,unlimited,Advertising
+29.0,Female,Berlin,Middle,Backend Developer,3,Java,49000.0,,2400.0,40000.0,,1200.0,27.0,2.0,English,,100-1000,Product,unlimited,Software Development
+40.0,Male,Nuremberg,Junior,Backend Developer,1,PHP,48000.0,0.0,,,,,30.0,,English,,50-100,Startup,unlimited,IoT
+33.0,Male,Munich,Senior,Backend Developer,12,.NET,65000.0,2000.0,,,,,Not mentioned,,English,,50-100,Product,unlimited,Manufacture
+32.0,Male,Amsterdam,Middle,Backend Developer,5,C/C++,53000.0,8500.0,,,,,25.0,,English,,50-100,Product,unlimited,Scientific Activities
+33.0,Female,Berlin,Senior,Backend Developer,6,PHP,62000.0,,,48000.0,,,26.0,,English,,100-1000,Product,unlimited,Сommerce
+Not mentioned,Male,Berlin,Middle,Backend Developer,5,Java,60000.0,,,,,,28.0,,English,Zalando,1000+,Product,unlimited,Сommerce
+40.0,Male,Munich,Senior,Manager,16,Not Relevant,120000.0,,,92000.0,,,30.0,5.0,English,Harman/Becker Automotive Systems GmbH,100-1000,Product,unlimited,Automotive
+23.0,Male,Berlin,Middle,Backend Developer,4,Javascript / Typescript,58000.0,,,,,,27.0,4.0,English,Taxfix GmbH,100-1000,Startup,unlimited,Finance / Insurance
+28.0,Male,Koblenz,Junior,Frontend Developer,2,Javascript / Typescript,48000.0,,,,,,28.0,,Deutsch,CGM ,1000+,Product,unlimited,Health
+28.0,Male,Würzburg ,Middle,Fullstack Developer,6,Javascript / Typescript,72000.0,,,60000.0,,,27.0,,Deutsch,snapADDY ,10-50,Startup,unlimited,Сommerce
+29.0,Male,Berlin,Middle,QA,5,Javascript / Typescript,59000.0,0.0,,,,,Not mentioned,,English,,1000+,Startup,unlimited,
+28.0,Male,Berlin,Senior,Backend Developer,7,Kotlin,73000.0,0.0,,70000.0,,,27.0,4.0,English,,1000+,Product,unlimited,Сommerce
+30.0,Female,Amsterdam,Senior,Manager,8,HR,65000.0,10000.0,,,,,25.0,20.0,English,,1000+,Bodyshop / Outsource,unlimited,
+25.0,Male,Amsterdam,Middle,Backend Developer & Team Lead,7,Java,89000.0,,,,,,29.0,,English,Booking.com,1000+,Product,unlimited,Tourism
+39.0,Male,Amsterdam,Senior,Mobile Developer,15,Swift,65000.0,0.0,,64800.0,,,24.0,2.0,English,BUX,50-100,Product,unlimited,Finance / Insurance
+33.0,Male,Munich,Senior,DevOps,10,AWS,88000.0,8000.0,,80000.0,,,30.0,4.0,English,,1000+,Product,unlimited,Manufacture
+43.0,Male,Hamburg,Middle,Support,20,Not Relevant,60000.0,6000.0,,,,,28.0,2.0,English,,100-1000,Startup,unlimited,Software development
+28.0,Male,Amsterdam,Middle,QA,2,Kotlin,45000.0,,,,,,28.0,4.0,English,Etergo,50-100,Product,1 year,Transport
+30.0,Male,Amsterdam,Senior,Frontend Developer,12,Javascript / Typescript,77700.0,,,58000.0,1200.0,,25.0,,English,,100-1000,Startup,1 year,Tourism
+37.0,Male,Amsterdam,Senior,DevOps,15,Not Relevant,80000.0,,,80000.0,,,24.0,12.0,English,,1000+,Product,unlimited,Tourism
+35.0,Male,Berlin,Senior,SRE,13,Kubernetes,85000.0,,,69000.0,,,28.0,3.0,English,,50-100,Product,unlimited,
+30.0,Male,Zurich,Middle,SRE,6,Python,150000.0,20000.0,100000.0,,,,25.0,5.0,English,,1000+,Product,unlimited,
+35.0,Male,Amsterdam,Senior,Backend Developer,15,C/C++,82500.0,,,75000.0,2500.0,,30.0,5.0,English,AIMMS,up to 10,Product,unlimited,Manufacture
+30.0,Male,Bremen,Junior,Backend Developer,2,Python,52000.0,4300.0,,52000.0,4300.0,,27.0,0.0,Deutsch,,10-50,Product,unlimited,Manufacture
+31.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,60000.0,0.0,,60000.0,10000.0,0.0,38.0,30.0,English,,50-100,Product,unlimited,Tourism
+33.0,Male,Munich,Junior,Backend Developer,2,Java,50000.0,2000.0,,,,,24.0,2.0,English,CHECK24,1000+,Product,unlimited,Internet portal
+24.0,Male,Amsterdam,Senior,Data Engineer,5,Scala,65000.0,0.0,0.0,,,,26.0,,English,,100-1000,Bodyshop / Outsource,1 year,Сommerce
+36.0,Male,Berlin,Senior,Backend Developer,15,.NET,62000.0,,,58000.0,,,24.0,0.0,English,,100-1000,Product,unlimited,Transport
+29.0,Male,Berlin,Middle,Frontend Developer,3,Javascript / Typescript,70000.0,,,55000.0,,,26.0,5.0,English,,100-1000,Product,unlimited,
+30.0,Male,Amsterdam,Senior,Mobile Developer,6,Kotlin,81000.0,0.0,0.0,78000.0,0.0,0.0,24.0,0.0,English,,1000+,Product,unlimited,Finance / Insurance
+26.0,Male,Amsterdam,Junior,Data Engineer,1,Python,52000.0,0.0,0.0,0.0,0.0,0.0,30.0,5.0,English,KI labs,10-50,Consulting / Agency,unlimited,Manufacture
+31.0,Male,Berlin,Senior,DevOps,8,K8S,85000.0,,,,,,26.0,,English,,50-100,Startup,unlimited,Finance / Insurance
+27.0,Male,Hamburg,Middle,Backend Developer,3,Scala,57000.0,,,,,,28.0,,English,,100-1000,Product,unlimited,Tourism
+28.0,Male,Lausanne,Junior,Researcher,7,C/C++,50800.0,0.0,0.0,50000.0,0.0,0.0,28.0,4.0,English,EPFL,100-1000,University,more than 1 year,Scientific Activities
+26.0,Male,Hamburg,Middle,Frontend Developer,5,Javascript / Typescript,41160.0,0.0,0.0,41000.0,0.0,0.0,25.0,0.0,English,ePages GmbH,100-1000,Product,unlimited,Сommerce
+24.0,Male,Saint Petersburg,Middle,Fullstack Developer,5,.NET,34000.0,300.0,0.0,,0.0,0.0,28.0,2.0,Russian,,100-1000,Bodyshop / Outsource,unlimited,Health
+Not mentioned,Male,Berlin,Middle,Backend Developer,8,Javascript / Typescript,55000.0,0.0,0.0,55000.0,0.0,0.0,30.0,3.0,Deutsch,,50-100,Product,unlimited,Сommerce
+40.0,Male,Berlin,Middle,Backend Developer,6,Java,55000.0,5000.0,,,,,27.0,,English,,1000+,Product,unlimited,
+30.0,Male,Berlin,Senior,Mobile Developer,8,Swift,55000.0,0.0,0.0,,,,24.0,,English,,100-1000,Product,unlimited,Transport
+30.0,Male,Amsterdam,Senior,SRE,8,Kotlin,107685.0,20000.0,30000.0,88000.0,12000.0,0.0,25.0,5.0,English,,1000+,Product,unlimited,Сommerce
+25.0,Male,Berlin,Lead,Backend Developer,6,Go,75000.0,,,,,,24.0,20.0,English,,100-1000,Product,unlimited,Real Estate
+Not mentioned,Male,Berlin,Senior,Mobile Developer,7,Objective-C,60000.0,0.0,0.0,60000.0,0.0,0.0,30.0,0.0,English,Virtual Solution AG,50-100,Product,unlimited,Сommerce
+42.0,Male,Berlin,Senior,DevOps,18,AWS,72000.0,,,,,,25.0,8.0,English,,50-100,Product,unlimited,Сommerce
+45.0,Male,Berlin,Senior,Fullstack Developer,25,.NET,70000.0,,,70000.0,,,25.0,,Deutsch,,50-100,Product,unlimited,Сommerce
+39.0,Male,Berlin,Senior,Solution Architect,10,Not Relevant,82000.0,10000.0,0.0,81000.0,8000.0,0.0,30.0,5.0,English,,1000+,Product,unlimited,Scientific Activities
+26.0,Male,Berlin,Middle,Fullstack Developer,4,Python,75000.0,,2500.0,58000.0,,,30.0,6.0,English,,100-1000,Startup,unlimited,Finance / Insurance
+30.0,Male,Berlin,Senior,SRE,11,Kubernetes,88000.0,8800.0,50000.0,80000.0,8000.0,50000.0,25.0,10.0,English,,1000+,Product,unlimited,Сommerce
+35.0,Male,Munich,Middle,Frontend Developer,2,Javascript / Typescript,60000.0,,,,,,30.0,,English,,10-50,Consulting / Agency,unlimited,Сommerce
+27.0,Male,Heidelberg,Junior,Fullstack Developer,1,Java,45600.0,600.0,,,,,Not mentioned,,English,,1000+,University,more than 1 year,Health
+31.0,Male,Berlin,Middle,Fullstack Developer,10,Javascript / Typescript,65000.0,0.0,0.0,65000.0,0.0,0.0,25.0,8.0,English,Spark Networks GmbH,100-1000,Product,unlimited,Dating
+36.0,Male,Munich,Senior,Tech Lead,10,Java,93000.0,,,79000.0,,,28.0,4.0,English,,100-1000,Startup,unlimited,Data Processing
+45.0,Male,Munich,Senior,Scrum Master,4,Not Relevant,70000.0,10000.0,,,,,28.0,2.0,English,Sixt,100-1000,Product,unlimited,Transport
+32.0,Male,Berlin,Senior,Backend Developer,10,Java,78000.0,3000.0,0.0,75000.0,0.0,0.0,27.0,0.0,English,,100-1000,Startup,unlimited,Tourism
+37.0,Male,Stockholm,Senior,Database Developer (DBA),15,SQL,60000.0,,,57000.0,,,25.0,15.0,English,Apica,50-100,Product,unlimited,IT
+Not mentioned,Male,Berlin,Senior,Manager,12,Not Relevant,70000.0,,,70000.0,0.0,0.0,27.0,3.0,English,-,100-1000,Startup,unlimited,Tourism
+Not mentioned,Female,Berlin,Middle,Backend Developer,7,Java,81000.0,,,80000.0,,,28.0,,English,,1000+,Product,unlimited,Сommerce
+28.0,Male,Berlin,Middle,Data Analyst,3,SQL,62000.0,,,,,,27.0,1.0,English,,100-1000,Product,1 year,Tourism
+31.0,Male,Düsseldorf,Middle,Business Analyst,5,Not Relevant,55000.0,3000.0,,55000.0,5000.0,,27.0,5.0,English,,1000+,Consulting / Agency,unlimited,Consulting
+34.0,Female,Berlin,Middle,Backend Developer,5,Kotlin,60000.0,0.0,0.0,55000.0,0.0,0.0,30.0,5.0,English,Akelius,100-1000,Product,unlimited,Real Estate
+24.0,Male,Berlin,Middle,Backend Developer,3,PHP,50000.0,,,,,,26.0,,English,,100-1000,Startup,unlimited,Transport
+45.0,Male,Munich,Senior,Data Engineer,18,Not Relevant,86700.0,4000.0,,86700.0,2200.0,,30.0,6.0,English,,1000+,Product,unlimited,Finance / Insurance
+37.0,Male,Berlin,Lead,Backend Developer,17,Python,75000.0,10000.0,,73000.0,10000.0,,30.0,8.0,English,Here,1000+,Product,unlimited,"Mapping, Navigation"
+35.0,Female,Berlin,Middle,QA,3,Java,40000.0,0.0,0.0,37000.0,0.0,0.0,28.0,0.0,English,AUTO1,100-1000,Product,unlimited,Сommerce
+28.0,Female,Berlin,Senior,Mobile Developer,7,Kotlin,65000.0,,,60000.0,,,27.0,,English,,100-1000,Product,unlimited,Сommerce
+21.0,Male,Nizhny Novgorod ,Junior,Mobile Developer,1,Kotlin,6000.0,,,,,,30.0,,Russian,Neuron,50-100,Outsource,1 year,Media
+33.0,Male,Berlin,Senior,Fullstack Developer,10,Javascript / Typescript,89000.0,0.0,0.0,83000.0,0.0,0.0,30.0,15.0,English,,50-100,Product,unlimited,IoT
+32.0,Female,Stuttgart,Middle,Manager,3,Not Relevant,51000.0,0.0,0.0,42000.0,0.0,0.0,25.0,1.0,English,,10-50,Product,unlimited,Finance / Insurance
+27.0,Male,Berlin,Senior,Backend Developer,8,Rust,82000.0,,,65000.0,,,28.0,16.0,English,,50-100,Startup,unlimited,Blockchain
+32.0,Female,Berlin,Middle,Backend Developer,3,Java,54000.0,,,,,,30.0,4.0,English,,100-1000,Product,unlimited,Analytics 
+32.0,Male,Berlin,Senior,Data Scientist,10,Python,110000.0,15000.0,,102000.0,12000.0,,28.0,,English,,1000+,Product,unlimited,Сommerce
+26.0,Male,Kyiv,Senior,Mobile Developer,5,Kotlin,34000.0,0.0,0.0,29500.0,0.0,0.0,25.0,3.0,English,Xyrality,50-100,Product,1 year,Gaming
+29.0,Female,Berlin,Middle,Backend Developer,6,Java,52000.0,,,,,,27.0,,English,,100-1000,Product,unlimited,Transport
+24.0,Male,Munich,Senior,Platform Engineer,10,Go,210000.0,,,,,,Not mentioned,,English,,1000+,Product,3 months,Сommerce
+33.0,Male,Amsterdam,Middle,Manager,8,Not Relevant,75000.0,7000.0,0.0,,,,29.0,,English,Ingenico,1000+,Product,1 year,Finance / Insurance
+44.0,Male,Munich,Senior,DevOps,22,,101000.0,9000.0,,99000.0,9000.0,,30.0,1.0,English,,1000+,Product,unlimited,
+28.0,Male,Moscow,Lead,Fullstack Developer,6,PHP,27977.0,,,22730.0,,,Not mentioned,,Russian,Roistat,100-1000,Product,unlimited,End-to-end analytics
+21.0,Male,Saint-Petersburg ,Middle,Backend Developer,1,Java,15600.0,,,,,,28.0,4.0,Russian,T-Systems Russia,1000+,Bodyshop / Outsource,more than 1 year,
+25.0,Male,Amsterdam,Senior,Backend Developer,6,Javascript / Typescript,75000.0,5000.0,,60000.0,0.0,0.0,25.0,7.0,English,,100-1000,Product,unlimited,OTT
+33.0,Male,Rotterdam,Senior,QA,11,Java,70000.0,,,59000.0,,,25.0,,English,,100-1000,Product,unlimited,IT
+30.0,Male,Minsk,Senior,QA,9,Ruby,50000.0,4500.0,,42000.0,4500.0,,20.0,5.0,Russian,,100-1000,Product,1 year,Сommerce
+37.0,Male,Frankfurt,Junior,Embedded Developer,2,C/C++,45000.0,0.0,0.0,42000.0,0.0,0.0,28.0,1.0,English,mettmodule,100-1000,Product,unlimited,embedded
+32.0,Male,Munich,Senior,Business Analyst,9,Java,70000.0,800.0,,,,,25.0,,English,,100-1000,Product,unlimited,Finance / Insurance
+31.0,Male,Hamburg,Middle,Backend Developer,11,Java,65000.0,0.0,0.0,58000.0,0.0,0.0,28.0,0.0,Deutsch,,100-1000,Product,unlimited,Media
+38.0,Male,Amsterdam,Senior,DevOps,5,Not Relevant,100000.0,,,,,,Not mentioned,,English,,100-1000,Product,1 year,Finance / Insurance
+30.0,Male,Berlin,,Manager,10,Java,83000.0,,,,,,Not mentioned,,English,,1000+,Product,unlimited,
+50.0,Male,Frankfurt,Senior,Manager,28,Not Relevant,110000.0,0.0,0.0,,,,Not mentioned,,English,,1000+,Consulting / Agency,more than 1 year,Finance / Insurance
+50.0,Male,Frankfurt,Senior,Manager,28,Not Relevant,110000.0,0.0,0.0,,,,Not mentioned,,English,,1000+,Consulting / Agency,more than 1 year,Finance / Insurance
+33.0,Male,Amsterdam,Middle,Fullstack Developer,4,Go,62000.0,,,,,,25.0,0.0,English,,100-1000,Product,1 year,Telecom
+36.0,Male,Munich,Middle,DevOps,4,AWS,60000.0,0.0,0.0,60000.0,0.0,0.0,33.0,,English,CRX Markets,10-50,Product,more than 1 year,FinTech
+28.0,Male,Munich,Senior,Frontend Developer,10,Javascript / Typescript,95000.0,,,,,,30.0,,English,,1000+,Product,unlimited,
+33.0,Male,Amsterdam,Middle,Researcher,8,Not Relevant,50000.0,5000.0,,50000.0,5000.0,,45.0,,English,TU Delft,1000+,University,unlimited,Scientific Activities
+44.0,Female,Munich,Middle,SAP Consultant,6,ABAP,68000.0,,,68000.0,,,30.0,9.0,Deutsch,,10-50,Consulting / Agency,unlimited,Consulting
+35.0,Male,Nuremberg,Middle,Fullstack Developer,9,.NET,66000.0,6000.0,,53000.0,6000.0,,30.0,4.0,Deutsch,,50-100,Consulting / Agency,unlimited,Food Retail
+35.0,Male,Amsterdam,Senior,DevOps,12,Azure,67800.0,8424.0,0.0,,,,20.0,10.0,English,,50-100,Consulting / Agency,unlimited,Finance / Insurance
+36.0,Male,Berlin,Senior,Mobile Developer,14,Kotlin,83000.0,3000.0,0.0,83000.0,0.0,0.0,30.0,24.0,English,,100-1000,Product,unlimited,Transport
+Not mentioned,Male,Berlin,Senior,Backend Developer,7,Java,70000.0,0.0,0.0,68000.0,0.0,0.0,28.0,4.0,Deutsch,aperto GmbH,100-1000,Consulting / Agency,more than 1 year,IT
+34.0,Male,Cologne,Senior,Desktop,13,C/C++,70000.0,,,57000.0,,,35.0,,English,,50-100,Product,unlimited,Manufacture
+29.0,Male,Berlin,Middle,QA,7,Not Relevant,42000.0,3000.0,,,,,25.0,4.0,English,,100-1000,Consulting / Agency,more than 1 year,
+33.0,Female,Berlin,Junior,Business Analyst,1,PostgreSQL,32000.0,0.0,0.0,,,,28.0,2.0,English,sumup,1000+,Startup,1 year,Finance / Insurance
+31.0,Male,Munich,,DevOps,8,AWS,80000.0,,,,,,Not mentioned,,English,,,,unlimited,
+37.0,Male,Utrecht,Middle,Product manager,17,Java,71000.0,0.0,0.0,71000.0,0.0,0.0,25.0,0.0,English,,100-1000,Product,unlimited,Finance / Insurance
+26.0,Female,Amsterdam,Middle,Backend Developer,4,Java,52800.0,,,,,,29.0,4.0,English,ING,1000+,Bank,unlimited,Finance / Insurance
+33.0,Male,Amsterdam,Senior,Frontend Developer,10,Javascript / Typescript,87000.0,,50000.0,,,,25.0,5.0,English,Amazon,1000+,Product,unlimited,Сommerce
+28.0,Male,Moscow,Lead,Frontend Developer,5,Javascript / Typescript,54000.0,10000.0,0.0,33600.0,8000.0,0.0,30.0,365.0,Russian,Cyber Security,100-1000,Product,more than 1 year,Security
+27.0,Male,Berlin,Senior,Data Scientist,5,SAS,73300.0,1500.0,,67100.0,2000.0,,30.0,,English,,1000+,Consulting / Agency,unlimited,Health
+30.0,Male,Amsterdam,Senior,Data Engineer,14,Not Relevant,100000.0,16000.0,15000.0,85000.0,12000.0,15000.0,25.0,4.0,English,,1000+,Startup,1 year,Scientific Activities
+46.0,Male,Munich,Lead,SRE,20,Openstack,70000.0,6300.0,,,,,30.0,,English,Travel technology company,1000+,Product,unlimited,Transport
+41.0,Male,Munich,Senior,Backend Developer,19,.NET,73200.0,8052.0,,,,,30.0,,English,,1000+,Product,unlimited,Scientific Activities
+41.0,Male,Kiev,Senior,Backend Developer,19,.NET,45000.0,,,39000.0,,,24.0,2.0,Russian,,50-100,Product,unlimited,CRM systems integration
+32.0,Female,Amsterdam,Senior,Business Analyst,7,Not Relevant,74900.0,,,,,,25.0,,English,,1000+,Product,unlimited,Health
+30.0,Male,Amsterdam,Senior,Backend Developer,10,Python,71000.0,3000.0,0.0,64000.0,3000.0,0.0,25.0,5.0,English,,1000+,Product,unlimited,Telecom
+28.0,Male,Amsterdam,Senior,Security Engineer,7,Not Relevant,72000.0,0.0,0.0,67000.0,0.0,0.0,27.0,5.0,English,ING,1000+,Bank,unlimited,Finance / Insurance
+42.0,Male,Munich,Senior,Manager,9,Not Relevant,68000.0,10000.0,,67000.0,9000.0,,30.0,5.0,English,SAP,1000+,Product,unlimited,Сommerce
+33.0,Male,Berlin,Senior,Software Architect,15,Javascript / Typescript,100000.0,3000.0,,93000.0,5000.0,,26.0,6.0,English,,1000+,Product,more than 1 year,Health
+32.0,Male,Frankfurt,Middle,Fullstack Developer,5,Java,63000.0,,,,,,30.0,5.0,Deutsch,,1000+,Consulting / Agency,unlimited,Transport
