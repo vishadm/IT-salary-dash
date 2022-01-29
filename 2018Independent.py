@@ -56,11 +56,21 @@ row5_s0,row5,row5_s1 = st.columns((5,6,4))
 
 dfSenior = pd.DataFrame({"Level": ['Senior','Middle','Junior','Undefined'], "value": [497,206,40,22]})
 #test1 = dfSenior.astype(str)
-row6_s0,row6,row6_s1 = st.columns((3.7,6,4))
+row6_s0,row6,row6_s1 = st.columns((3.6,6,3.5))
 fig2 = alt.Chart(dfSenior).mark_bar().encode(
-    x = 'Level', y = 'value', tooltip = ['Level','value']
-).properties(height = 500,width = 800)
-row6.altair_chart(fig2, use_container_width=True)
+    alt.Y('value',
+        scale=alt.Scale(domain=(0, 550))),x = 'Level',color = 'Level' ,tooltip = ['Level','value']
+)
+text = fig2.mark_text(
+    align='left',
+    baseline='middle',
+    dx = -10 ,dy= -5
+).encode(
+    text='Level'
+)
+
+fig2upd = (fig2 + text).properties(height = 500,width = 800)
+row6.altair_chart(fig2upd, use_container_width=True)
 
 row7_c1, row7_c2 = st.columns(2)
 row7_c1.markdown("""#### <u> The designations in the dataset</u> """, unsafe_allow_html = True)
