@@ -1,3 +1,4 @@
+from matplotlib import scale
 import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -9,7 +10,9 @@ st.set_page_config(layout = 'wide', initial_sidebar_state = 'collapsed')
 
 path = 'D:/DS/Streamlit/IT Salary Survey2018_Cleaned.csv'
 df = pd.read_csv(path)
-
+imageurl = ('https://keendomains.files.wordpress.com/2021/01/lof36xlnivy9jouwawen.gif')
+image_s0, image1, image_s1 = st.columns((1,7,1))
+image1.image(imageurl,use_column_width = True)
 #st.markdown("<h1 style='text-align: center; color: red;'>Some title</h1>", unsafe_allow_html=True)
 title_spacer0, title, title_spacer1 = st.columns((3.5,4,3))
 title.title('IT Salary Survey Visuals')
@@ -18,10 +21,13 @@ subtitle.subheader('(EU Region)')
 
 yearlist = ['2018','2019','2020']
 year = st.sidebar.selectbox('Please Select the year',yearlist)
+note1 = st.sidebar.expander('Please Note 👉')
+with note1:
+    st.markdown('This is not the original Dataset. This data was cleaned and prepared [seperately](https://github.com/vishadm/IT-salary-dash/blob/main/IT%20Salary18.ipynb)')
 
 row0c0, row0c1 = st.columns(2)
 row0c0.markdown(""" Hey there! Welcome to IT Salary Survey Visuals App. 
-This app curates are represents the IT Jobs Salary data for Europe region with clean and sleek visuals
+This app curates ard represents the IT Jobs Salary data for Europe region with clean and sleek visuals
 , If you're on a mobile device, switch over to landscape for viewing ease.""")
 row0c1.markdown(""" This app contains the visuals describing the IT Salary Survey Dataset imported from [Kaggle](https://www.kaggle.com/parulpandey/2020-it-salary-survey-for-eu-region) 
 and various trends in the data with relevance to The Yearly Salary""")
@@ -30,10 +36,6 @@ df_spacer0, dataframe, df_spacer1 = st.columns((3.5,7,3))
 dataframe.markdown("""#### First we have a quick look at the data we have with ourselves """)
 st.dataframe(df)
 
-
-note = st.expander('Please Note 👉')
-with note:
-    st.markdown('This is not the original Dataset. This data was cleaned and prepared [seperately](https://github.com/vishadm/IT-salary-dash/blob/main/IT%20Salary18.ipynb)')
 
 row1_s0,row1,row0_s1 = st.columns((3.5,4,3))
 row1.markdown("""### Now into the details of the dataset """)
