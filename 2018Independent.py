@@ -96,8 +96,12 @@ fig6 = alt.Chart(comsize).mark_arc().encode(
 row10c2.markdown("""#### Size of the companies the employees work in """)
 row10c2.altair_chart(fig6, use_container_width = True)
 
-row11_s0,row11,row11_c1 = st.columns((3,6,3))
+row11_s0,row11,row11_c1 = st.columns((3.5,6,3))
 row11.markdown("""### Finally, the company types in the dataset """)
-
+companytypes = pd.DataFrame({"Types":['Product','Startup','Agency','Not mentioned','Consulting','Outsource','E-Commerce','Automotive','Insurance','Others'],"value":[452,145,74,35,15,10,6,2,2,22]})
+fig7 = alt.Chart(companytypes).mark_bar().encode(
+    y = "Types",x = "value",color = "Types", tooltip = ['Types','value']
+)
+st.altair_chart(fig7,use_container_width= True)
 # if year=='2018':
 #     year2018()
