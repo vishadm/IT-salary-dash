@@ -8,7 +8,7 @@ import altair as alt
 
 st.set_page_config(layout = 'wide', initial_sidebar_state = 'collapsed')
 
-path = 'D:/DS/Streamlit/IT Salary Survey2018_Cleaned.csv'
+path = 'D:/DS/Streamlit/IT Salary Survey2018_Cleaned_Update 1.1.csv'
 df = pd.read_csv(path)
 imageurl = ('https://keendomains.files.wordpress.com/2021/01/lof36xlnivy9jouwawen.gif')
 image_s0, image1, image_s1 = st.columns((1,7,1))
