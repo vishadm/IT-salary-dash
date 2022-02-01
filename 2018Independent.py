@@ -77,9 +77,15 @@ row2_c1.markdown("""This bar graph shows the number of entries grouped by their 
 seniority levels but majority were found out to be Seniors in their Job designations wheras a handful of the total were juniors. """)
 
 row7_c1, row7_c2 = st.columns(2)
-row7_c1.markdown("""#### <u> The designations in the dataset</u> """, unsafe_allow_html = True)
+row7_c1.markdown("""#### <u> Some main and distinct designations in the dataset</u> """, unsafe_allow_html = True)
 # make positions graph row7_c1
-
+positions = pd.DataFrame({"Positions":['Software Engineer','Java Developer','QA','Frontend Developer','Not mentioned','Data Scientist','iOS Developer','Testing','DevOps','Android Developers'],"Value":[89,58,36,31,28,21,20,12,11,8]})
+figpos = alt.Chart(positions).mark_bar().encode(
+    alt.Y('Value', scale=alt.Scale(domain=(0, 100))),x = 'Positions',color = 'Positions' ,tooltip = ['Positions','Value']
+).properties(height = 500, width = 600)
+row7_c1.altair_chart(figpos)
+row7_c1.markdown(""" These are only the top ten most distinct positions in the dataset. There are a lot of other jumbled entries defining different
+positions which range from being a PHP Developer to a Database Manger. There are some CEO entries as well.""")
 row7_c2.markdown("""#### <u> The variation of Experience </u>""", unsafe_allow_html = True)
 row7_c2.line_chart(df['Years of experience'],use_container_width  = True)
 row7_c2.markdown(""" This schematic shows the variation of the Years of Experience in the dataset. 
